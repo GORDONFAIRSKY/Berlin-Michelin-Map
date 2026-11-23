@@ -1,0 +1,591 @@
+[
+  {
+    "id": "rutz",
+    "name": "Rutz",
+    "stars": 3,
+    "greenStar": true,
+    "address": "Chausseestraße 8, 10115 Berlin",
+    "neighborhood": "Mitte",
+    "lat": 52.528223,
+    "lng": 13.386216,
+    "cuisine": "Modern Cuisine · Creative",
+    "priceTier": "€€€€",
+    "chef": "Marco Müller",
+    "hours": "Mon–Fri 18:00–22:00 · Closed Sat–Sun",
+    "review": "Berlin's sole three-star flagship delivers Marco Müller's \"Inspiration\" tasting menu—a 12- to 13-course journey shaped by hyper-regional Brandenburg suppliers, wild-foraged herbs, and effortless precision. Standouts like Oldenburg Wagyu with beef garum and North Sea squid with red cabbage pair with an acclaimed wine cellar in an unexpectedly relaxed, warm setting.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/rutz",
+    "websiteUrl": "https://rutz-restaurant.de/en/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/fd87a49a9cf4446cbc4d2a697ef61e6b.jpg?w=1000&format=webp",
+        "caption": "Signature Course · Michelin Guide"
+      },
+      {
+        "url": "https://cdn.enprimeurclub.com/storage/v1/object/public/images/locations/recfSAWc7umoPMPib/hero1.jpg?width=1200&quality=80",
+        "caption": "Dining Room · Chausseestraße"
+      },
+      {
+        "url": "https://rutz-restaurant.de/wp-content/uploads/2025/02/Slider_HG_Streuobstwiese_clean-1.jpg",
+        "caption": "Inspiration Tasting Menu"
+      }
+    ]
+  },
+  {
+    "id": "coda",
+    "name": "CODA",
+    "stars": 2,
+    "greenStar": false,
+    "address": "Friedelstraße 47, 12047 Berlin",
+    "neighborhood": "Neukölln",
+    "lat": 52.489920,
+    "lng": 13.427478,
+    "cuisine": "Creative · Innovative",
+    "priceTier": "€€€€",
+    "chef": "René Frank",
+    "hours": "Wed–Sat 19:00–24:00 · Closed Sun–Tue",
+    "review": "Behind an unassuming Neukölln facade, René Frank redefines fine dining by applying patisserie techniques across a 13- to 15-course tasting menu—completely free of refined sugar. Every savoury-adjacent and dessert course arrives with a bespoke drink pairing in a dimly lit, laid-back dining room with open-kitchen counter seats.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/coda-dessert-dining",
+    "websiteUrl": "https://coda-berlin.com/en/home/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/ca4b38e2bf354860a384f2b94618e761.jpeg?w=1000&format=webp",
+        "caption": "Signature Creation · Michelin Guide"
+      },
+      {
+        "url": "https://coda-berlin.com/wp-content/uploads/coda-berlin_plate_10-years_16-9_01-1280x720.webp",
+        "caption": "Patisserie Fine Dining"
+      },
+      {
+        "url": "https://coda-berlin.com/wp-content/uploads/coda-sternerestaurant-berlin_preview_2.jpg",
+        "caption": "Tasting Menu & Pairings"
+      }
+    ]
+  },
+  {
+    "id": "facil",
+    "name": "FACIL",
+    "stars": 2,
+    "greenStar": false,
+    "address": "Potsdamer Straße 3, 10785 Berlin",
+    "neighborhood": "Tiergarten · Potsdamer Platz",
+    "lat": 52.509059,
+    "lng": 13.373848,
+    "cuisine": "Creative · Contemporary",
+    "priceTier": "€€€€",
+    "chef": "Michael Kempf & Joachim Gerner",
+    "hours": "Mon–Fri 12:00–14:00 & 19:00–22:00 · Closed Sat–Sun",
+    "review": "An airy fifth-floor rooftop oasis inside The Mandala Hotel, framed by wraparound glass, bamboo plants, and a serene courtyard terrace. Michael Kempf and Joachim Gerner craft five- to eight-course menus uniting classic French technique with Mediterranean and Asian accents, backed by a masterful sommelier team.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/facil",
+    "websiteUrl": "https://www.facil.de/en/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/4e2db6a70d2a42f0ac05a0a648d4ec8b.jpg?w=1000&format=webp",
+        "caption": "Signature Dish · Michelin Guide"
+      },
+      {
+        "url": "https://www.facil.de/site/assets/files/3998/700032-web.1600x1066.jpg",
+        "caption": "Rooftop Glass Pavilion"
+      },
+      {
+        "url": "https://www.facil.de/site/assets/files/52044/252981-web_1800xxxx-juni21.1600x1066.jpg",
+        "caption": "Dining Room & Bamboo Terrace"
+      }
+    ]
+  },
+  {
+    "id": "horvath",
+    "name": "Horváth",
+    "stars": 2,
+    "greenStar": true,
+    "address": "Paul-Lincke-Ufer 44a, 10999 Berlin",
+    "neighborhood": "Kreuzberg",
+    "lat": 52.496557,
+    "lng": 13.420919,
+    "cuisine": "Creative · Emancipated Vegetable Cuisine",
+    "priceTier": "€€€€",
+    "chef": "Sebastian Frank",
+    "hours": "Wed–Sat 18:30–20:00 (seating) · Closed Sun–Tue",
+    "review": "Set along Kreuzberg's leafy Landwehrkanal with historic wood panelling, a Jim Avignon mural, and a glass-fronted kitchen. Sebastian Frank places regional vegetables at the heart of his Austrian-rooted avant-garde cooking—celebrating craft over luxury clichés in dishes like \"celery ripe & young\" alongside Eastern European and Austrian wines.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/horvath",
+    "websiteUrl": "https://restaurant-horvath.de/en/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/702d3f23c9d142a19e056aeda74f5658.jpg?w=1000&format=webp",
+        "caption": "Signature Dish · Michelin Guide"
+      },
+      {
+        "url": "https://www.kochfreunde.com/wp-content/uploads/2023/09/2023-08-Horvath-Kaiserhappen-03-1920x1024.jpg",
+        "caption": "Emancipated Vegetable Cuisine"
+      },
+      {
+        "url": "https://www.visitberlin.de/system/files/styles/visitberlin25_hero_visitberlin25_desktop_2x/private/image/Horv%C3%A1th_Sebastian_Fank_c_Ren%C3%A9_Riis_web.jpg.avif?itok=RrY9vaP3",
+        "caption": "Dining Room & Kitchen"
+      }
+    ]
+  },
+  {
+    "id": "tim-raue",
+    "name": "Tim Raue",
+    "stars": 2,
+    "greenStar": false,
+    "address": "Rudi-Dutschke-Straße 26, 10969 Berlin",
+    "neighborhood": "Kreuzberg",
+    "lat": 52.506898,
+    "lng": 13.391337,
+    "cuisine": "Asian Influences · German",
+    "priceTier": "€€€€",
+    "chef": "Tim Raue",
+    "hours": "Tue–Sat 18:00–24:00 (Early seating Fri–Sat 17:00) · Closed Sun–Mon",
+    "review": "Berlin-born Tim Raue's sleek Kreuzberg flagship pairs unmistakable Berlin boldness with intense Asian-inspired aromatics—balancing heat, sweetness, and acidity without dairy, white sugar, or heavy starches. Iconic plates like Wasabi Langoustine and Duck \"Marie-Anne\" headline the \"Kolibri x Berlin\", \"Koi\", and vegan tasting menus.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/tim-raue",
+    "websiteUrl": "https://tim-raue.com/en/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/96100e668e2d44a7b80f023fae5b6121.jpg?w=1000&format=webp",
+        "caption": "Signature Plate · Michelin Guide"
+      },
+      {
+        "url": "https://www.visitberlin.de/system/files/styles/visitberlin25_hero_visitberlin25_desktop_2x/private/image/Chefs%20Table_1_preview.jpeg.avif?itok=4lc3_22U",
+        "caption": "Chef's Table & Dining Room"
+      },
+      {
+        "url": "https://tim-raue.com/wp-content/uploads/2021/11/slider-background-menue-05.jpg",
+        "caption": "Asian-Inspired Fine Dining"
+      }
+    ]
+  },
+  {
+    "id": "bandol-sur-mer",
+    "name": "Bandol sur mer",
+    "stars": 1,
+    "greenStar": true,
+    "address": "Torstraße 167, 10115 Berlin",
+    "neighborhood": "Mitte",
+    "lat": 52.529105,
+    "lng": 13.395460,
+    "cuisine": "Creative · Seasonal Cuisine",
+    "priceTier": "€€€€",
+    "chef": "Andreas Saul",
+    "hours": "Mon–Fri 18:30–23:00 · Closed Sat–Sun",
+    "review": "Housed in a tiny, dimly lit former kebab shop on bustling Torstraße, Bandol sur mer pairs vintage East Berlin shabby-chic charm with fiercely inventive cooking. Andreas Saul's seven-course regional omnivore and vegetarian menus showcase house fermentations, smoking, carrot charcuterie, and subtle Far Eastern notes.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/bandol-sur-mer",
+    "websiteUrl": "https://www.bandolsurmer.de/english",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/55515baef1b84f7fa91b40c24db7d021.jpg?w=1000&format=webp",
+        "caption": "Signature Course · Michelin Guide"
+      },
+      {
+        "url": "https://www.visitberlin.de/system/files/styles/visitberlin25_hero_visitberlin25_desktop_2x/private/image/Bandol%20sur%20mer_c_Pierre%20Adenis_DL_PPT_0.jpg.avif?itok=uDg8YO6r",
+        "caption": "Intimate Torstraße Dining Room"
+      },
+      {
+        "url": "https://media.alotea.com/bandol-sur-mer-berlin-cover-b4d383bd-d188fbd3-031680a3.webp",
+        "caption": "Open Kitchen & Bistro Tables"
+      }
+    ]
+  },
+  {
+    "id": "bonvivant",
+    "name": "Bonvivant",
+    "stars": 1,
+    "greenStar": true,
+    "address": "Goltzstraße 32, 10781 Berlin",
+    "neighborhood": "Schöneberg",
+    "lat": 52.494482,
+    "lng": 13.353754,
+    "cuisine": "Vegan",
+    "priceTier": "€€€€",
+    "chef": "Nikodemus Berger",
+    "hours": "Wed–Sat 18:00–23:00 · Brunch Fri–Sun 09:00–15:00 · Closed Mon–Tue",
+    "review": "Berlin's first purely vegan Michelin-starred cocktail bistro proves plant-based haute cuisine lacks nothing. Driven by Brandenburg produce cooked \"from leaf to root\" and fermented in-house, Nikodemus Berger serves six- and seven-course seasonal menus alongside inventive cocktail pairings in a warm Schöneberg setting.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/bonvivant-1197308",
+    "websiteUrl": "https://bonvivant.berlin/en/contact.htm",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/142758bed93a4e0587c2a720befd264f.jpeg?w=1000&format=webp",
+        "caption": "Vegan Tasting Course · Michelin Guide"
+      },
+      {
+        "url": "https://bonvivant.berlin/media/uploads/2026/04/bonvivant-interior-fine-dining.jpg",
+        "caption": "Schöneberg Dining Room & Bar"
+      },
+      {
+        "url": "https://bonvivant.berlin/media/uploads/2026/08/vegane-speisekarte-bonvivant-berlin.jpg",
+        "caption": "Seasonal Plant-Based Menu"
+      }
+    ]
+  },
+  {
+    "id": "bricole",
+    "name": "Bricole",
+    "stars": 1,
+    "greenStar": false,
+    "address": "Senefelderstraße 30, 10437 Berlin",
+    "neighborhood": "Prenzlauer Berg",
+    "lat": 52.541004,
+    "lng": 13.422396,
+    "cuisine": "Modern French · Asian Influences",
+    "priceTier": "€€€€",
+    "chef": "Steven Zeidler",
+    "hours": "Mon–Sat 19:00–23:00 · Closed Sun",
+    "review": "An intimate, neighbourly eight-table bistro in Prenzlauer Berg where proprietor-sommelier Fabian Fischer champions over 300 German, Austrian, and French wines. Chef Steven Zeidler elevates classic French technique with nuanced Asian accents—such as Nordic halibut with shiso and dashi, or guinea fowl with kombu and sour cherries.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/bricole",
+    "websiteUrl": "https://www.bricole.de/en/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/b39708fe8caf4a108ca8225577b061c1.jpeg?w=1000&format=webp",
+        "caption": "Signature Plate · Michelin Guide"
+      },
+      {
+        "url": "https://www.bricole.de/_astro/bricole-gastraum-prenzlauer-berg.C2cf4mno_1lI6sY.jpg",
+        "caption": "Intimate Bistro Dining Room"
+      },
+      {
+        "url": "https://www.bricole.de/_astro/bricole-gaeste-abendessen-berlin.cOh_Y8NS_2inxow.webp",
+        "caption": "Evening Atmosphere"
+      }
+    ]
+  },
+  {
+    "id": "cookies-cream",
+    "name": "Cookies Cream",
+    "stars": 1,
+    "greenStar": false,
+    "address": "Behrenstraße 55, 10117 Berlin",
+    "neighborhood": "Mitte",
+    "lat": 52.515613,
+    "lng": 13.386986,
+    "cuisine": "Vegetarian",
+    "priceTier": "€€€€",
+    "chef": "Patrick Ziegert",
+    "hours": "Tue–Thu 18:30–23:00 · Fri–Sat 17:00–23:00 · Closed Sun–Mon",
+    "review": "Quintessential Berlin hidden fine dining: ring the bell behind an unmarked courtyard door and climb into a former nightclub turned industrial-chic loft. Five- to seven-course strictly vegetarian menus (with vegan options and iconic Parmesan dumplings) shine alongside vibrant wine and non-alcoholic pairings.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/cookies-cream",
+    "websiteUrl": "https://cookiescream.com/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/1d58234a274a490695e1d3d47ac45228.jpg?w=1000&format=webp",
+        "caption": "Vegetarian Haute Cuisine · Michelin Guide"
+      },
+      {
+        "url": "https://cookiescream.com/wp-content/uploads/2024/09/CookiesCreamEvents.jpg",
+        "caption": "Loft Dining Room · Behrenstraße"
+      },
+      {
+        "url": "https://cookiescream.com/wp-content/uploads/2025/04/COOKIES-CREAM-FOOD-PUNTARELLA-MOREL1-1024x768.jpg",
+        "caption": "Seasonal Plant-Forward Dish"
+      }
+    ]
+  },
+  {
+    "id": "golvet",
+    "name": "GOLVET",
+    "stars": 1,
+    "greenStar": false,
+    "address": "Potsdamer Straße 58, 10785 Berlin",
+    "neighborhood": "Tiergarten · Potsdamer Platz",
+    "lat": 52.505422,
+    "lng": 13.367427,
+    "cuisine": "Creative",
+    "priceTier": "€€€€",
+    "chef": "Nicholas Hahn",
+    "hours": "Wed–Sat 18:00–24:00 · Closed Sun–Tue",
+    "review": "Perched on the eighth floor of the Loeser & Wolff building with sweeping views over Potsdamer Platz and an open-kitchen counter. Chef Nicholas Hahn gives vegetables, fish, and meat a bold, creative twist—such as pointed cabbage with smoked eel and Koshihikari, or John Dory with horseradish and kohlrabi.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/golvet",
+    "websiteUrl": "https://golvet.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/28796ee0e8f14f159945cf9c8195e93f.jpg?w=1000&format=webp",
+        "caption": "Signature Course · Michelin Guide"
+      },
+      {
+        "url": "https://golvet.de/wp-content/uploads/2026/08/Golvet_Architektur_2-1024x683.webp",
+        "caption": "8th Floor Dining Room & Bar"
+      },
+      {
+        "url": "https://golvet.de/wp-content/uploads/2026/08/GOLVET-1024x683.webp",
+        "caption": "Open Kitchen & Skyline"
+      }
+    ]
+  },
+  {
+    "id": "hallmann-und-klee",
+    "name": "hallmann & klee",
+    "stars": 1,
+    "greenStar": false,
+    "address": "Böhmische Straße 13, 12055 Berlin",
+    "neighborhood": "Neukölln · Rixdorf",
+    "lat": 52.473818,
+    "lng": 13.449715,
+    "cuisine": "Modern Cuisine",
+    "priceTier": "€€€",
+    "chef": "Sarah Hallmann",
+    "hours": "Wed–Sat 18:30–23:00 · Closed Sun–Tue",
+    "review": "Overlooking Neukölln's village-like Böhmischer Platz with a lively summer terrace and warm, understated interior. Chef-patron Sarah Hallmann delivers streamlined, punchy modern dishes crafted from superb ingredients—highlights include the signature \"potato, lovage, whey\" and halibut with champagne and Périgord truffle.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/hallmann-und-klee",
+    "websiteUrl": "https://www.hallmann-klee.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/db366901497f4c729eec5732c91f6372.jpeg?w=1000&format=webp",
+        "caption": "Signature Dish · Michelin Guide"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/d25d4b_38702b817d644e149f042549c653f8b5~mv2.jpg/v1/fill/w_800,h_600,al_c,q_85/d25d4b_38702b817d644e149f042549c653f8b5~mv2.jpg",
+        "caption": "Modern Neighbourhood Dining"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/d25d4b_facd02050374451291e1f1c28d84e845~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85/d25d4b_facd02050374451291e1f1c28d84e845~mv2.jpg",
+        "caption": "Seasonal Tasting Menu"
+      }
+    ]
+  },
+  {
+    "id": "hugos",
+    "name": "Hugos",
+    "stars": 1,
+    "greenStar": false,
+    "address": "Budapester Straße 2, 10787 Berlin",
+    "neighborhood": "Tiergarten",
+    "lat": 52.507277,
+    "lng": 13.345400,
+    "cuisine": "Modern Cuisine · International",
+    "priceTier": "€€€€",
+    "chef": "Johannes Gehrich",
+    "hours": "Wed–Sat 18:30–24:00 · Closed Sun–Tue",
+    "review": "Crowning the 14th floor of InterContinental Berlin with panoramic views over Tiergarten and the city skyline, Hugos has held a Michelin star continuously since 1999. Chef Johannes Gehrich crafts refined six- and eight-course menus—like snow crab with imperial caviar and Dover sole with vin jaune and morels—paired with polished service.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/hugos",
+    "websiteUrl": "https://www.berlin.intercontinental.com/dine/hugos-restaurant/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/814ef192300e448da24079b5aaec189e.jpg?w=1000&format=webp",
+        "caption": "Signature Course · Michelin Guide"
+      },
+      {
+        "url": "https://www.berlin.intercontinental.com/wp-content/uploads/2026/09/Hugos_Restaurant_Details_Web72dpi-1800x1200.jpg",
+        "caption": "14th Floor Panoramic Dining Room"
+      },
+      {
+        "url": "https://www.berlin.intercontinental.com/wp-content/uploads/2026/09/621A2765-Edit-1800x1013.jpg",
+        "caption": "Modern Haute Cuisine"
+      }
+    ]
+  },
+  {
+    "id": "irma-la-douce",
+    "name": "Irma la Douce",
+    "stars": 1,
+    "greenStar": false,
+    "address": "Potsdamer Straße 102, 10785 Berlin",
+    "neighborhood": "Tiergarten",
+    "lat": 52.501463,
+    "lng": 13.363832,
+    "cuisine": "Classic French",
+    "priceTier": "€€€",
+    "chef": "Francesco Contiero",
+    "hours": "Tue–Fri 12:00–14:00 & 18:00–23:00 · Sat 18:00–23:00 · Closed Sun–Mon",
+    "review": "Bathed in warm golden light with old-world elegance and laid-back charm, Irma la Douce brings undogmatic French savoir-vivre to Potsdamer Straße. Expect melt-in-the-mouth bœuf bourguignon, signature Carbonara nodding to the chef's roots, classic crème brûlée, and a standout French-focused wine list, plus weekday lunch.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/irma-la-douce",
+    "websiteUrl": "https://www.irmaladouce.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/2e7df9d84efd4c3c9fd967d1073bc7f5.jpeg?w=1000&format=webp",
+        "caption": "Classic French Plate · Michelin Guide"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/ec391a_b80a9ebe589f4d35a133b5d992e8d37b~mv2.jpg/v1/fit/w_960,h_1280,q_90/ec391a_b80a9ebe589f4d35a133b5d992e8d37b~mv2.jpg",
+        "caption": "Golden-Lit Dining Room"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/ec391a_be54b595f0774feab61990b152e071ab~mv2.jpg/v1/fit/w_960,h_1280,q_90/ec391a_be54b595f0774feab61990b152e071ab~mv2.jpg",
+        "caption": "Bistro Elegance & Wine"
+      }
+    ]
+  },
+  {
+    "id": "lorenz-adlon-esszimmer",
+    "name": "Lorenz Adlon Esszimmer",
+    "stars": 1,
+    "greenStar": false,
+    "address": "Unter den Linden 77, 10117 Berlin",
+    "neighborhood": "Mitte",
+    "lat": 52.515576,
+    "lng": 13.380070,
+    "cuisine": "Creative",
+    "priceTier": "€€€€",
+    "chef": "Jonas Zörner",
+    "hours": "Wed–Sat 19:00–23:00 · Closed Sun–Tue",
+    "review": "Inside the grand Hotel Adlon Kempinski—with coveted tables overlooking the Brandenburg Gate—Jonas Zörner contrasts opulent historic heritage with modern, creative cooking rooted in a classic French foundation. Offered as five- or six-course menus or à la carte Signatures, accompanied by over 1,600 wine labels.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/lorenz-adlon-esszimmer",
+    "websiteUrl": "https://en.lorenzadlon-esszimmer.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/aca9cf5ac1834270895cd4b5210b8a39.jpeg?w=1000&format=webp",
+        "caption": "Haute Cuisine · Michelin Guide"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/b23f82_002880959be540249b16e869fef98894~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85/b23f82_002880959be540249b16e869fef98894~mv2.jpg",
+        "caption": "Hotel Adlon Dining Room"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/e9bf3a_2feaedff7eac4ae8befd536a3d6e3cc8~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85/e9bf3a_2feaedff7eac4ae8befd536a3d6e3cc8~mv2.jpg",
+        "caption": "Brandenburg Gate Salon"
+      }
+    ]
+  },
+  {
+    "id": "loumi",
+    "name": "Loumi",
+    "stars": 1,
+    "greenStar": false,
+    "address": "Ritterstraße 2, 10969 Berlin",
+    "neighborhood": "Kreuzberg",
+    "lat": 52.500645,
+    "lng": 13.413533,
+    "cuisine": "International · Asian",
+    "priceTier": "€€€€",
+    "chef": "Karl-Louis Kömmler",
+    "hours": "Wed–Sat 18:45–23:00 · Closed Sun–Tue",
+    "review": "Self-taught chef Karl-Louis Kömmler leads a young team in a minimalist, counter-focused Kreuzberg corner space. Breaking culinary conventions with strong Japanese influences across an eight-course menu, Loumi's signature crispy veal sweetbread with Kaluga caviar and habanero sauce delivers bold, pared-down harmony.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/loumi",
+    "websiteUrl": "https://www.loumi-dining.com/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/40f93b60f32145b48317b1eef0822cff.jpg?w=1000&format=webp",
+        "caption": "Signature Course · Michelin Guide"
+      },
+      {
+        "url": "https://www.visitberlin.de/system/files/styles/visitberlin25_hero_visitberlin25_desktop_2x/private/image/loumi_dining_072025_c_Nada_Rajabi_web.jpg.avif?itok=9egs68FQ",
+        "caption": "Minimalist Kreuzberg Interior"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/aa7dbb_f8565e1fcf8c4370b2a9201a15011984~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_85/_W7A0222_loumi_Neda-Rajabi.jpg",
+        "caption": "Counter & Open Kitchen"
+      }
+    ]
+  },
+  {
+    "id": "matthias",
+    "name": "Matthias",
+    "stars": 1,
+    "greenStar": false,
+    "address": "Kollwitzstraße 87, 10435 Berlin",
+    "neighborhood": "Prenzlauer Berg",
+    "lat": 52.538442,
+    "lng": 13.420043,
+    "cuisine": "Modern Cuisine · French",
+    "priceTier": "€€€",
+    "chef": "Silvio Pfeufer",
+    "hours": "Wed–Fri 19:00–23:00 · Sat 12:30–16:00 & 19:00–23:00 · Closed Sun–Tue",
+    "review": "Occupying a stylish Kollwitzkiez corner building with earthy woods and a signature terracotta counter, Silvio Pfeufer, Janine Woltaire, and sommelier Michael Stiel present a modern, ingredient-led take on French cuisine. Choose five- or six-course omnivore or vegetarian menus—or dine à la carte.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/matthias",
+    "websiteUrl": "https://www.matthiasrestaurant.com/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/6b0ba7f3f715498d9dbbda4734218d97.jpeg?w=1000&format=webp",
+        "caption": "Modern French Dish · Michelin Guide"
+      },
+      {
+        "url": "https://www.visitberlin.de/system/files/styles/visitberlin25_hero_visitberlin25_desktop_2x/private/image/Matthias_Restaurant_062025_c_LuisBompastor_web.jpg.avif?itok=_Alcn4yO",
+        "caption": "Kollwitzkiez Dining Room"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/9b0191_617a319002c243348b4e8da94fcadaa2~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85/9b0191_617a319002c243348b4e8da94fcadaa2~mv2.jpg",
+        "caption": "Evening Atmosphere"
+      }
+    ]
+  },
+  {
+    "id": "nobelhart-schmutzig",
+    "name": "Nobelhart & Schmutzig",
+    "stars": 1,
+    "greenStar": true,
+    "address": "Friedrichstraße 218, 10969 Berlin",
+    "neighborhood": "Kreuzberg",
+    "lat": 52.505388,
+    "lng": 13.390540,
+    "cuisine": "Creative · Regional Cuisine",
+    "priceTier": "€€€€",
+    "chef": "Micha Schäfer (Host: Billy Wagner)",
+    "hours": "Mon–Sat 18:00–24:00 · Closed Sun",
+    "review": "Billy Wagner and Micha Schäfer's \"brutally local\" manifesto celebrates exclusively Berlin and Brandenburg ingredients—no pepper, lemons, or imported olive oil, only extraordinary seasonal produce and house-churned butter. Seated around the open kitchen counter, guests enjoy six- or eight-course menus with natural wines and beers.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/nobelhart-schmutzig",
+    "websiteUrl": "https://nobelhartundschmutzig.com/en/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/d0320cc149df4fc8bc7a5023d72ce2cd.jpg?w=1000&format=webp",
+        "caption": "Brutally Local Course · Michelin Guide"
+      },
+      {
+        "url": "https://www.visitberlin.de/system/files/styles/visitberlin25_hero_visitberlin25_desktop_2x/private/image/Nobelhart%20%26%20Schmutzig%2C%20Berlin%20-%20Emotions%20%28c%29%20Marko%20Seifert_DL_PPT_0.jpg.avif?itok=IyibJ7Uv",
+        "caption": "Open Kitchen Counter"
+      },
+      {
+        "url": "https://nobelhartundschmutzig.com/wp-content/uploads/2025/06/index_back99.jpg",
+        "caption": "Friedrichstraße Dining Room"
+      }
+    ]
+  },
+  {
+    "id": "pars-restaurant",
+    "name": "pars Restaurant",
+    "stars": 1,
+    "greenStar": false,
+    "address": "Grolmanstraße 53, 10623 Berlin",
+    "neighborhood": "Charlottenburg",
+    "lat": 52.507468,
+    "lng": 13.321425,
+    "cuisine": "Modern Cuisine",
+    "priceTier": "€€€€",
+    "chef": "Florian Sperlhofer (Host: Kristiane Kegelmann)",
+    "hours": "Wed–Sat 19:00–23:00 · Closed Sun–Tue",
+    "review": "An intimate, art-filled Charlottenburg dining room founded by sculptor and master confectioner Kristiane Kegelmann. From the communal table overlooking the open kitchen, savour Florian Sperlhofer's finely balanced seasonal dishes—like smoked local eel with beetroot or pike-perch with fermented cabbage—finished with house-crafted pralines.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/pars-restaurant",
+    "websiteUrl": "https://www.pars.berlin/en/home",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/a5c4b14993d34784bca5519196e7a002.jpeg?w=1000&format=webp",
+        "caption": "Seasonal Tasting Dish · Michelin Guide"
+      },
+      {
+        "url": "https://www.visitberlin.de/system/files/styles/visitberlin25_hero_visitberlin25_desktop_2x/private/image/Pars_c_Caroline_Prange_web.jpg.avif?itok=LPj_C4sZ",
+        "caption": "Communal Table & Minimalist Room"
+      },
+      {
+        "url": "https://parspralinen.com/cdn/shop/files/12944641-a31f-4888-8f6a-92b80746162b_2.jpg?v=1653592406&width=1200",
+        "caption": "Artisanal pars Pralines"
+      }
+    ]
+  },
+  {
+    "id": "tulus-lotrek",
+    "name": "tulus lotrek",
+    "stars": 1,
+    "greenStar": false,
+    "address": "Fichtestraße 24, 10967 Berlin",
+    "neighborhood": "Kreuzberg · Graefekiez",
+    "lat": 52.489660,
+    "lng": 13.413638,
+    "cuisine": "Modern Cuisine · International",
+    "priceTier": "€€€€",
+    "chef": "Maximilian Strohe (Host: Ilona Scholl)",
+    "hours": "Thu–Mon 18:30–23:00 · Closed Tue–Wed",
+    "review": "Inside a high-stuccoed Graefekiez apartment adorned with bold art and quirky wallpaper, Ilona Scholl leads warm, exuberant hospitality while Maximilian Strohe builds deeply flavoursome eight-course omnivore and vegetarian menus—from Arctic char with veal tongue to carabinero prawn with gochujang and candied ginger.",
+    "michelinUrl": "https://guide.michelin.com/us/en/berlin-region/berlin/restaurant/tulus-lotrek",
+    "websiteUrl": "https://www.tuluslotrek.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/d8d9066578e843c89c0de70b8c51943b.jpeg?w=1000&format=webp",
+        "caption": "Signature Course · Michelin Guide"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/683b2aeb38fd6e7a4f0c0619/074d4623-0820-4556-9a23-a17b82af53bb/IMG_5988_erweitert.jpg?format=1000w",
+        "caption": "Graefekiez Dining Room"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/683b2aeb38fd6e7a4f0c0619/3a57dd17-a064-4ccf-a1a8-5ffd36a8a612/IMG_5999.jpg?format=1000w",
+        "caption": "Evening Atmosphere"
+      }
+    ]
+  }
+]
