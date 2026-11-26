@@ -6,8 +6,8 @@
   <meta name="theme-color" content="#FAF8F5" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-  <meta name="description" content="Interactive mobile-first map of all 75 Michelin Guide Berlin 2026 restaurants: 3-star, 2-star, 1-star, Bib Gourmand, and Michelin Recommended dining with photos, reviews, directions, and reservations." />
-  <title>Berlin Michelin Guide 2026 — Interactive Dining Map</title>
+  <meta name="description" content="Interactive mobile-first map of MICHELIN Guide 2026 restaurants across Berlin and Munich: 3-star, 2-star, 1-star, Bib Gourmand, and Michelin Recommended dining with photos, reviews, directions, and reservations." />
+  <title>Michelin Guide 2026 — Interactive Dining Map</title>
 
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23BD1E2D'/%3E%3Cpath d='M32 13l5.3 12.6L51 27l-10.4 9 3.2 13.4L32 42.3 20.2 49.4 23.4 36 13 27l13.7-1.4z' fill='%23FFFDF9'/%3E%3C/svg%3E" />
 
@@ -136,11 +136,11 @@
       border: 1px solid var(--border);
       border-radius: 20px;
       box-shadow: var(--shadow-md);
-      padding: 10px 12px 10px;
+      padding: 9px 12px 10px;
       pointer-events: auto;
       display: flex;
       flex-direction: column;
-      gap: 9px;
+      gap: 7px;
     }
 
     .brand-row {
@@ -239,6 +239,66 @@
 
     @keyframes spin {
       to { transform: rotate(360deg); }
+    }
+
+    /* Extensible City Switcher Strip */
+    .city-row {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      overflow-x: auto;
+      scrollbar-width: none;
+      -ms-overflow-style: none;
+      padding: 1px 0;
+    }
+    .city-row::-webkit-scrollbar {
+      display: none;
+    }
+
+    .city-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      height: 30px;
+      padding: 0 12px;
+      border-radius: var(--radius-pill);
+      border: 1px solid var(--border);
+      background: var(--surface-solid);
+      color: var(--ink-secondary);
+      font-family: var(--font-sans);
+      font-size: 12.5px;
+      font-weight: 600;
+      white-space: nowrap;
+      cursor: pointer;
+      flex-shrink: 0;
+      transition: all 0.18s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    .city-pill:hover {
+      border-color: var(--border-strong);
+      color: var(--ink);
+    }
+
+    .city-pill:active {
+      transform: scale(0.96);
+    }
+
+    .city-pill .city-count {
+      font-size: 11px;
+      font-weight: 600;
+      opacity: 0.65;
+    }
+
+    .city-pill.active {
+      background: var(--ink);
+      border-color: var(--ink);
+      color: #FFFDF9;
+      box-shadow: 0 2px 8px rgba(24, 22, 21, 0.22);
+    }
+
+    .city-pill.active .city-count {
+      color: var(--star-3-accent);
+      opacity: 1;
     }
 
     /* Filter Pill Strip */
@@ -352,7 +412,7 @@
     /* Toast Notification */
     .toast {
       position: fixed;
-      top: calc(116px + var(--safe-top));
+      top: calc(146px + var(--safe-top));
       left: 50%;
       transform: translate(-50%, -12px);
       z-index: 560;
@@ -397,7 +457,7 @@
       white-space: nowrap;
       cursor: pointer;
       box-shadow: 0 4px 12px rgba(20, 17, 15, 0.26), 0 0 0 2px rgba(255, 253, 250, 0.95);
-      transition: transform 0.2s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.2s ease;
+      transition: transform 0.22s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.22s ease, opacity 0.22s ease, filter 0.22s ease;
       transform-origin: center bottom;
       user-select: none;
     }
@@ -491,15 +551,60 @@
       background: #36414E;
     }
 
+    /* Spotlight Mode: gently step back non-selected pins when a restaurant is active */
+    #map.has-selection .michelin-pin:not(.selected) {
+      opacity: 0.42;
+      filter: saturate(0.55);
+    }
+
+    #map.has-selection .michelin-pin:not(.selected):hover {
+      opacity: 0.95;
+      filter: none;
+    }
+
+    /* Unmistakable Selected Pin Highlight + Animated Pulsing Beacon Ring */
     .michelin-pin.selected {
-      transform: scale(1.22) translateY(-4px);
-      box-shadow: 0 8px 22px rgba(20, 17, 15, 0.38), 0 0 0 3px #FFFDF9, 0 0 0 5.5px var(--star-3);
+      transform: scale(1.28) translateY(-4px);
+      box-shadow:
+        0 10px 26px rgba(189, 30, 45, 0.42),
+        0 0 0 3px #FFFDF9,
+        0 0 0 6px var(--star-3);
     }
 
     .michelin-pin.dist-selected.selected {
-      transform: scale(1.32);
-      background: var(--ink);
-      box-shadow: 0 6px 18px rgba(20, 17, 15, 0.36), 0 0 0 2.5px #FFFDF9, 0 0 0 4.5px var(--star-3);
+      transform: scale(1.48);
+      background: var(--star-3);
+      box-shadow:
+        0 8px 22px rgba(189, 30, 45, 0.46),
+        0 0 0 2.5px #FFFDF9,
+        0 0 0 5px var(--star-3);
+    }
+
+    .michelin-pin.selected::before {
+      content: '';
+      position: absolute;
+      inset: -8px;
+      border-radius: 999px;
+      border: 3px solid var(--star-3);
+      background: rgba(189, 30, 45, 0.16);
+      pointer-events: none;
+      z-index: -2;
+      animation: selectedBeacon 1.9s cubic-bezier(0.22, 1, 0.36, 1) infinite;
+    }
+
+    @keyframes selectedBeacon {
+      0% {
+        transform: scale(0.92);
+        opacity: 0.85;
+      }
+      75% {
+        transform: scale(1.62);
+        opacity: 0;
+      }
+      100% {
+        transform: scale(1.62);
+        opacity: 0;
+      }
     }
 
     .pin-green-dot {
@@ -530,7 +635,27 @@
       border: 1px solid var(--border);
       opacity: 0;
       pointer-events: none;
-      transition: opacity 0.18s ease;
+      transition: opacity 0.18s ease, background 0.18s ease, color 0.18s ease;
+    }
+
+    .michelin-pin.selected .pin-label {
+      top: calc(100% + 9px);
+      background: #181615;
+      color: #FFFDF9;
+      border: 1.5px solid #FFFDF9;
+      font-size: 11.5px;
+      font-weight: 700;
+      letter-spacing: 0.01em;
+      padding: 3.5px 9.5px;
+      border-radius: 999px;
+      box-shadow: 0 5px 16px rgba(18, 16, 15, 0.42);
+      opacity: 1;
+    }
+
+    .michelin-pin.dist-selected.selected .pin-label {
+      top: calc(100% + 8px);
+      font-size: 10.5px;
+      padding: 3px 8px;
     }
 
     .map-show-star-labels .michelin-pin.is-star .pin-label,
@@ -636,7 +761,7 @@
       transform: scale(0.93);
     }
 
-    /* Backdrop Overlay */
+    /* Backdrop Overlay (used for list drawer on mobile; map stays bright & live behind detail sheet) */
     .sheet-backdrop {
       position: fixed;
       inset: 0;
@@ -659,7 +784,7 @@
       right: 0;
       bottom: 0;
       z-index: 700;
-      max-height: 86dvh;
+      max-height: 62dvh;
       background: var(--surface-solid);
       border-top-left-radius: var(--radius-sheet);
       border-top-right-radius: var(--radius-sheet);
@@ -739,7 +864,7 @@
       position: relative;
       width: 100%;
       aspect-ratio: 16 / 10;
-      max-height: 270px;
+      max-height: 220px;
       background: #231F1E;
       overflow: hidden;
     }
@@ -1299,12 +1424,12 @@
       }
 
       .detail-sheet {
-        top: 132px;
+        top: 162px;
         left: 20px;
         right: auto;
         bottom: 20px;
         width: 420px;
-        max-height: calc(100dvh - 152px);
+        max-height: calc(100dvh - 182px);
         border-radius: 22px;
         border: 1px solid var(--border);
         transform: translateX(-115%);
@@ -1345,12 +1470,12 @@
       .gallery-nav.next { right: 10px; }
 
       .list-sheet {
-        top: 132px;
+        top: 162px;
         left: 20px;
         right: auto;
         bottom: 20px;
         width: 400px;
-        max-height: calc(100dvh - 152px);
+        max-height: calc(100dvh - 182px);
         border-radius: 22px;
         border: 1px solid var(--border);
         transform: translateX(-115%);
@@ -1372,11 +1497,11 @@
 <body>
 
   <!-- Interactive Map -->
-  <main id="map" role="application" aria-label="Interactive map of Michelin Guide restaurants in Berlin"></main>
+  <main id="map" role="application" aria-label="Interactive map of Michelin Guide restaurants"></main>
 
   <!-- Floating Top Filter Bar -->
   <header class="top-bar-wrap">
-    <div class="top-bar">
+    <div class="top-bar" id="topBar">
       <div class="brand-row">
         <div class="brand-left">
           <div class="brand-crest" aria-hidden="true">
@@ -1385,8 +1510,8 @@
             </svg>
           </div>
           <div class="brand-titles">
-            <h1>Berlin Michelin</h1>
-            <span class="brand-year" id="brandSummary">2026 Guide · 75 Spots</span>
+            <h1>Michelin Guide</h1>
+            <span class="brand-year" id="brandSummary">2026 · 75 Spots</span>
           </div>
         </div>
 
@@ -1398,6 +1523,9 @@
           <span>Near Me</span>
         </button>
       </div>
+
+      <!-- Extensible City Switcher -->
+      <nav class="city-row" id="cityRow" aria-label="Switch city"></nav>
 
       <nav class="filter-row" id="filterRow" aria-label="Filter restaurants by Michelin distinction">
         <button class="filter-pill active" type="button" data-filter="all">
@@ -1450,7 +1578,7 @@
       </svg>
       <span id="listTriggerLabel">Explore List · 75</span>
     </button>
-    <button id="recenterBtn" class="recenter-btn" type="button" aria-label="Reset map view to all Berlin Michelin restaurants" title="Reset Berlin view">
+    <button id="recenterBtn" class="recenter-btn" type="button" aria-label="Reset map view to all restaurants in the active city" title="Reset city view">
       <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
         <path d="M3 12a9 9 0 1 0 3-6.7L3 8"/>
         <path d="M3 3v5h5"/>
@@ -1462,7 +1590,7 @@
   <div id="sheetBackdrop" class="sheet-backdrop" aria-hidden="true"></div>
 
   <!-- Quick Directory List Sheet -->
-  <aside id="listSheet" class="list-sheet" aria-label="Michelin Guide Berlin restaurants list" aria-hidden="true">
+  <aside id="listSheet" class="list-sheet" aria-label="Michelin Guide restaurants list" aria-hidden="true">
     <div class="list-header">
       <div>
         <h2 id="listTitle">Michelin Restaurants</h2>
@@ -1573,14 +1701,19 @@
     (function () {
       'use strict';
 
-      const BERLIN_CENTER = [52.5075, 13.386];
-      const BERLIN_ZOOM = 12;
+      // Extensible city registry — add new cities here (or simply add a new `city` key in restaurants.json)
+      const CITIES = [
+        { id: 'berlin', name: 'Berlin', country: 'Germany', center: [52.5075, 13.386], zoom: 12 },
+        { id: 'munich', name: 'Munich', country: 'Germany', center: [48.1372, 11.5756], zoom: 13 }
+      ];
+      const CITY_STORAGE_KEY = 'michelin_guide_active_city';
 
       const isApplePlatform = /iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent) &&
         (navigator.maxTouchPoints > 1 || /iPhone|iPad|iPod/.test(navigator.userAgent));
 
       // State
       let restaurants = [];
+      let activeCity = 'berlin';
       let activeFilter = 'all';
       let selectedId = null;
       let userLocation = null; // { lat, lng }
@@ -1592,7 +1725,10 @@
 
       // DOM refs
       const mapEl = document.getElementById('map');
+      const topBarEl = document.getElementById('topBar');
+      const cityRow = document.getElementById('cityRow');
       const filterRow = document.getElementById('filterRow');
+      const brandSummary = document.getElementById('brandSummary');
       const nearMeBtn = document.getElementById('nearMeBtn');
       const toastEl = document.getElementById('toast');
       const bottomControls = document.getElementById('bottomControls');
@@ -1633,10 +1769,29 @@
       const listSubtitle = document.getElementById('listSubtitle');
       const listItems = document.getElementById('listItems');
 
+      function getCityConfig(cityId = activeCity) {
+        return CITIES.find((c) => c.id === cityId) || CITIES[0];
+      }
+
+      function resolveInitialCity() {
+        const hashCity = window.location.hash.replace(/^#/, '').trim().toLowerCase();
+        if (hashCity && CITIES.some((c) => c.id === hashCity)) return hashCity;
+        try {
+          const saved = localStorage.getItem(CITY_STORAGE_KEY);
+          if (saved && CITIES.some((c) => c.id === saved)) return saved;
+        } catch {
+          // Ignore storage restrictions
+        }
+        return CITIES[0].id;
+      }
+
+      activeCity = resolveInitialCity();
+      const initialCfg = getCityConfig(activeCity);
+
       // Initialize Leaflet Map
       const map = L.map('map', {
-        center: BERLIN_CENTER,
-        zoom: BERLIN_ZOOM,
+        center: initialCfg.center,
+        zoom: initialCfg.zoom,
         zoomControl: false,
         attributionControl: true,
         tap: true
@@ -1671,10 +1826,10 @@
       map.on('zoomend', syncZoomLabels);
       syncZoomLabels();
 
-      // Clicking empty map area closes sheets
+      // Clicking empty map area closes open sheets
       map.on('click', () => {
         if (detailSheet.classList.contains('open')) closeDetail();
-        if (listSheet.classList.contains('open')) closeList();
+        if (listSheet.classList.contains('open')) closeList(false);
       });
 
       // Utilities
@@ -1747,14 +1902,107 @@
         return `${Math.round(km)} km away`;
       }
 
+      // Strictly city-scoped data accessors
+      function getCityRestaurants(cityId = activeCity) {
+        return restaurants.filter((r) => (r.city || 'berlin') === cityId);
+      }
+
       function getFilteredRestaurants() {
-        return restaurants.filter((r) => {
+        return getCityRestaurants().filter((r) => {
           if (activeFilter === 'all') return true;
           if (activeFilter === 'green') return Boolean(r.greenStar);
           if (activeFilter === 'bib') return r.stars === 0 && getDistinction(r) === 'bib';
           if (activeFilter === 'selected') return r.stars === 0 && getDistinction(r) === 'selected';
           return r.stars === Number(activeFilter);
         });
+      }
+
+      function renderCitySwitcher() {
+        cityRow.innerHTML = '';
+        CITIES.forEach((city) => {
+          const count = getCityRestaurants(city.id).length;
+          if (count === 0) return;
+          const btn = document.createElement('button');
+          btn.type = 'button';
+          btn.className = `city-pill${city.id === activeCity ? ' active' : ''}`;
+          btn.dataset.city = city.id;
+          btn.setAttribute('aria-pressed', String(city.id === activeCity));
+          btn.innerHTML = `<span>${escapeHtml(city.name)}</span><span class="city-count">${count}</span>`;
+          cityRow.appendChild(btn);
+        });
+      }
+
+      function syncCityCountsAndLabels() {
+        const citySpots = getCityRestaurants();
+        const cfg = getCityConfig();
+        const counts = {
+          all: citySpots.length,
+          '3': citySpots.filter((r) => r.stars === 3).length,
+          '2': citySpots.filter((r) => r.stars === 2).length,
+          '1': citySpots.filter((r) => r.stars === 1).length,
+          bib: citySpots.filter((r) => r.stars === 0 && getDistinction(r) === 'bib').length,
+          selected: citySpots.filter((r) => r.stars === 0 && getDistinction(r) === 'selected').length,
+          green: citySpots.filter((r) => r.greenStar).length
+        };
+
+        document.getElementById('countAll').textContent = counts.all;
+        document.getElementById('count3').textContent = counts['3'];
+        document.getElementById('count2').textContent = counts['2'];
+        document.getElementById('count1').textContent = counts['1'];
+        document.getElementById('countBib').textContent = counts.bib;
+        document.getElementById('countSelected').textContent = counts.selected;
+        document.getElementById('countGreen').textContent = counts.green;
+
+        // Hide distinction pills with 0 spots in the active city (future-proof for any city)
+        filterRow.querySelectorAll('.filter-pill').forEach((pill) => {
+          const key = pill.dataset.filter;
+          const show = key === 'all' || (counts[key] || 0) > 0;
+          pill.style.display = show ? '' : 'none';
+        });
+
+        // Reset filter to 'all' if current filter has 0 matches in the new city
+        if (activeFilter !== 'all' && !(counts[activeFilter] > 0)) {
+          activeFilter = 'all';
+        }
+        filterRow.querySelectorAll('.filter-pill').forEach((p) => {
+          p.classList.toggle('active', p.dataset.filter === activeFilter);
+        });
+
+        brandSummary.textContent = `2026 · ${cfg.name} · ${citySpots.length} Spots`;
+        document.title = `${cfg.name} — Michelin Guide 2026 Map`;
+        mapEl.setAttribute('aria-label', `Interactive map of Michelin Guide restaurants in ${cfg.name}`);
+        listSheet.setAttribute('aria-label', `Michelin Guide ${cfg.name} restaurants list`);
+        recenterBtn.setAttribute('title', `Reset ${cfg.name} view`);
+        recenterBtn.setAttribute('aria-label', `Reset map view to all ${cfg.name} Michelin restaurants`);
+      }
+
+      function switchCity(cityId, { animateFit = false, updateHash = true } = {}) {
+        if (!CITIES.some((c) => c.id === cityId)) return;
+        const wasListOpen = listSheet.classList.contains('open');
+
+        activeCity = cityId;
+        closeDetail();
+
+        try {
+          localStorage.setItem(CITY_STORAGE_KEY, activeCity);
+        } catch {
+          // Ignore storage restrictions
+        }
+        if (updateHash && window.location.hash !== `#${activeCity}`) {
+          history.replaceState(null, '', `#${activeCity}`);
+        }
+
+        cityRow.querySelectorAll('.city-pill').forEach((btn) => {
+          const isAct = btn.dataset.city === activeCity;
+          btn.classList.toggle('active', isAct);
+          btn.setAttribute('aria-pressed', String(isAct));
+        });
+
+        syncCityCountsAndLabels();
+        renderMarkers(true, animateFit);
+        if (wasListOpen) {
+          openList();
+        }
       }
 
       const RECOMMENDED_PIN_SVG =
@@ -1801,7 +2049,7 @@
         });
       }
 
-      function renderMarkers(shouldFitBounds = false) {
+      function renderMarkers(shouldFitBounds = false, animateFit = true) {
         markersById.forEach((m) => map.removeLayer(m));
         markersById.clear();
 
@@ -1811,7 +2059,7 @@
           const baseZ = markerBaseZ(r);
           const marker = L.marker([r.lat, r.lng], {
             icon: buildPinIcon(r, isSelected),
-            zIndexOffset: isSelected ? 1000 : baseZ,
+            zIndexOffset: isSelected ? 2500 : baseZ,
             title: `${r.name} (${distinctionListLabel(r)})`
           });
 
@@ -1824,55 +2072,76 @@
           markersById.set(r.id, marker);
         });
 
-        // Update counts & bottom trigger label
-        listTriggerLabel.textContent = `Explore List · ${visible.length}`;
+        mapEl.classList.toggle('has-selection', Boolean(selectedId && markersById.has(selectedId)));
+
+        const cfg = getCityConfig();
+        listTriggerLabel.textContent = `Explore ${cfg.name} · ${visible.length}`;
 
         if (shouldFitBounds && visible.length > 0) {
+          const topPad = (topBarEl ? topBarEl.getBoundingClientRect().bottom : 140) + 18;
           if (visible.length === 1) {
-            map.flyTo([visible[0].lat, visible[0].lng], 15, { duration: 0.65 });
+            map.setView([visible[0].lat, visible[0].lng], 15, { animate: animateFit });
           } else {
             const bounds = L.latLngBounds(visible.map((r) => [r.lat, r.lng]));
             map.fitBounds(bounds, {
-              paddingTopLeft: [32, 130],
-              paddingBottomRight: [32, 90],
+              paddingTopLeft: [32, topPad],
+              paddingBottomRight: [32, 92],
               maxZoom: 14,
-              animate: true
+              animate: animateFit
             });
           }
         }
       }
 
       function refreshMarkerSelection() {
-        restaurants.forEach((r) => {
+        const hasActive = Boolean(selectedId && markersById.has(selectedId));
+        mapEl.classList.toggle('has-selection', hasActive);
+
+        getCityRestaurants().forEach((r) => {
           const marker = markersById.get(r.id);
           if (!marker) return;
           const isSel = r.id === selectedId;
           marker.setIcon(buildPinIcon(r, isSel));
-          marker.setZIndexOffset(isSel ? 1000 : markerBaseZ(r));
+          marker.setZIndexOffset(isSel ? 2500 : markerBaseZ(r));
         });
       }
 
       function panMapForDetail(restaurant) {
         const isDesktop = window.innerWidth >= 768;
-        const targetZoom = Math.max(map.getZoom(), 14);
+        const targetZoom = Math.max(map.getZoom(), 15);
         const point = map.project([restaurant.lat, restaurant.lng], targetZoom);
-        // Offset so the pin stays clearly visible above mobile bottom sheet or right of desktop card
-        const offsetPoint = isDesktop
-          ? L.point(point.x - 190, point.y - 20)
-          : L.point(point.x, point.y + Math.min(window.innerHeight * 0.24, 210));
+
+        let offsetPoint;
+        if (isDesktop) {
+          // Center pin horizontally in the open map canvas to the right of the 420px side card
+          const cardRight = 440;
+          const visibleCenterX = cardRight + (window.innerWidth - cardRight) / 2;
+          const shiftX = visibleCenterX - window.innerWidth / 2;
+          offsetPoint = L.point(point.x - shiftX, point.y - 12);
+        } else {
+          // Center pin vertically in the bright unobstructed map band between topBar and detailSheet
+          const topEdge = topBarEl ? topBarEl.getBoundingClientRect().bottom : 140;
+          const sheetHeight = Math.round(window.innerHeight * 0.62);
+          const bottomEdge = window.innerHeight - sheetHeight;
+          const visibleCenterY = topEdge + (bottomEdge - topEdge) / 2 - 8;
+          const shiftY = window.innerHeight / 2 - visibleCenterY;
+          offsetPoint = L.point(point.x, point.y + shiftY);
+        }
+
         const targetLatLng = map.unproject(offsetPoint, targetZoom);
-        map.flyTo(targetLatLng, targetZoom, { duration: 0.55 });
+        map.flyTo(targetLatLng, targetZoom, { duration: 0.52 });
       }
 
       function createFallbackNode(name, caption) {
         const div = document.createElement('div');
         div.className = 'gallery-fallback';
+        const cfg = getCityConfig();
         div.innerHTML = `
           <svg width="28" height="28" viewBox="0 0 24 24" fill="#E7C36A" aria-hidden="true">
             <path d="M12 2.5l2.7 6.3 6.8.6-5.2 4.5 1.6 6.7L12 17l-5.9 3.6 1.6-6.7-5.2-4.5 6.8-.6z"/>
           </svg>
           <div class="gallery-fallback-title">${escapeHtml(name)}</div>
-          <div class="gallery-fallback-sub">${escapeHtml(caption || 'Berlin Michelin Guide')}</div>
+          <div class="gallery-fallback-sub">${escapeHtml(caption || `${cfg.name} Michelin Guide`)}</div>
         `;
         return div;
       }
@@ -1964,7 +2233,14 @@
         const restaurant = restaurants.find((r) => r.id === id);
         if (!restaurant) return;
 
-        closeList(true);
+        // Ensure restaurant belongs to active city
+        const targetCity = restaurant.city || 'berlin';
+        if (targetCity !== activeCity) {
+          switchCity(targetCity, { animateFit: false });
+        }
+
+        // Close list & backdrop so the map stays bright and the highlighted pin stands out clearly
+        closeList(false);
         selectedId = id;
         refreshMarkerSelection();
         panMapForDetail(restaurant);
@@ -2027,12 +2303,12 @@
           detailWebsiteLink.style.display = 'none';
         }
 
-        // Open sheet
+        // Open sheet (keep map bright & live above the sheet so the pulsing pin is unmistakable)
         sheetScroll.scrollTop = 0;
         detailSheet.style.transform = '';
         detailSheet.classList.add('open');
         detailSheet.setAttribute('aria-hidden', 'false');
-        backdrop.classList.add('open');
+        backdrop.classList.remove('open');
         bottomControls.classList.add('hidden');
       }
 
@@ -2056,34 +2332,36 @@
           detailSheet.setAttribute('aria-hidden', 'true');
         }
 
+        const cfg = getCityConfig();
         const visible = getFilteredRestaurants().slice();
         if (userLocation) {
           visible.sort((a, b) =>
             haversineKm(userLocation.lat, userLocation.lng, a.lat, a.lng) -
             haversineKm(userLocation.lat, userLocation.lng, b.lat, b.lng)
           );
-          listSubtitle.textContent = `${visible.length} restaurants · sorted nearest to you`;
+          listSubtitle.textContent = `${visible.length} ${cfg.name} restaurants · sorted nearest to you`;
         } else {
           visible.sort((a, b) => distinctionRank(b) - distinctionRank(a) || a.name.localeCompare(b.name));
-          listSubtitle.textContent = `${visible.length} restaurants · sorted by Michelin distinction`;
+          listSubtitle.textContent = `${visible.length} ${cfg.name} restaurants · sorted by Michelin distinction`;
         }
 
         const titleMap = {
-          all: 'All Michelin Restaurants',
-          '3': 'Three-Star Restaurants',
-          '2': 'Two-Star Restaurants',
-          '1': 'One-Star Restaurants',
-          bib: 'Bib Gourmand · Best Value',
-          selected: 'Michelin Recommended',
-          green: 'Green Star Restaurants'
+          all: `${cfg.name} Michelin Guide`,
+          '3': `${cfg.name} · Three Stars`,
+          '2': `${cfg.name} · Two Stars`,
+          '1': `${cfg.name} · One Star`,
+          bib: `${cfg.name} · Bib Gourmand`,
+          selected: `${cfg.name} · Recommended`,
+          green: `${cfg.name} · Green Star`
         };
-        listTitle.textContent = titleMap[activeFilter] || 'Michelin Restaurants';
+        listTitle.textContent = titleMap[activeFilter] || `${cfg.name} Michelin Restaurants`;
 
         listItems.innerHTML = '';
         visible.forEach((r) => {
           const btn = document.createElement('button');
           btn.type = 'button';
           btn.className = 'list-card';
+          btn.dataset.id = r.id;
 
           const thumbUrl = r.images?.[0]?.url || '';
           const distHtml = userLocation
@@ -2153,7 +2431,7 @@
         if (!isDragging) return;
         isDragging = false;
         detailSheet.classList.remove('dragging');
-        if (dragDeltaY > 90) {
+        if (dragDeltaY > 80) {
           closeDetail();
         } else {
           detailSheet.style.transform = '';
@@ -2161,6 +2439,22 @@
       }
       sheetDragZone.addEventListener('touchend', endDrag);
       sheetDragZone.addEventListener('touchcancel', endDrag);
+
+      // City switcher handler
+      cityRow.addEventListener('click', (e) => {
+        const pill = e.target.closest('.city-pill');
+        if (!pill) return;
+        const nextCity = pill.dataset.city;
+        if (!nextCity || nextCity === activeCity) return;
+        switchCity(nextCity, { animateFit: false });
+      });
+
+      window.addEventListener('hashchange', () => {
+        const hashCity = window.location.hash.replace(/^#/, '').trim().toLowerCase();
+        if (hashCity && hashCity !== activeCity && CITIES.some((c) => c.id === hashCity)) {
+          switchCity(hashCity, { animateFit: false, updateHash: false });
+        }
+      });
 
       // Filter button handlers
       filterRow.addEventListener('click', (e) => {
@@ -2177,13 +2471,13 @@
         if (selectedId && !getFilteredRestaurants().some((r) => r.id === selectedId)) {
           closeDetail();
         }
-        renderMarkers(true);
+        renderMarkers(true, true);
         if (listSheet.classList.contains('open')) {
           openList();
         }
       });
 
-      // Near Me GPS Geolocation
+      // Near Me GPS Geolocation (scoped to active city, with smart hint if user is in another mapped city)
       nearMeBtn.addEventListener('click', () => {
         if (!navigator.geolocation) {
           showToast('Geolocation is not supported in this browser.');
@@ -2222,23 +2516,29 @@
               interactive: false
             }).addTo(map);
 
-            // Check distance to Berlin center
-            const distToBerlin = haversineKm(lat, lng, BERLIN_CENTER[0], BERLIN_CENTER[1]);
-            const pool = getFilteredRestaurants();
-            const searchSet = pool.length ? pool : restaurants;
+            const cfg = getCityConfig();
+            const distToActive = haversineKm(lat, lng, cfg.center[0], cfg.center[1]);
+            const cityPool = getFilteredRestaurants();
+            const searchSet = cityPool.length ? cityPool : getCityRestaurants();
             const nearest = searchSet.reduce((best, r) => {
               const d = haversineKm(lat, lng, r.lat, r.lng);
               return !best || d < best.d ? { r, d } : best;
             }, null);
 
-            if (distToBerlin <= 45) {
+            if (distToActive <= 45) {
               map.flyTo([lat, lng], 14, { duration: 0.7 });
               if (nearest) {
-                showToast(`Nearest spot: ${nearest.r.name} (${formatDistance(nearest.d)})`, 3400);
+                showToast(`Nearest in ${cfg.name}: ${nearest.r.name} (${formatDistance(nearest.d)})`, 3400);
               }
             } else {
-              // User is outside Berlin: notify distance cleanly
-              showToast(`GPS active · You're ${Math.round(distToBerlin)} km from Berlin`, 3400);
+              const nearbyOther = CITIES.find(
+                (c) => c.id !== activeCity && haversineKm(lat, lng, c.center[0], c.center[1]) <= 45
+              );
+              if (nearbyOther) {
+                showToast(`You're near ${nearbyOther.name} · Tap ${nearbyOther.name} above to switch`, 3800);
+              } else {
+                showToast(`GPS active · You're ${Math.round(distToActive)} km from ${cfg.name}`, 3400);
+              }
               map.flyTo([lat, lng], 13, { duration: 0.7 });
             }
 
@@ -2281,7 +2581,7 @@
       recenterBtn.addEventListener('click', () => {
         closeDetail();
         closeList(false);
-        renderMarkers(true);
+        renderMarkers(true, true);
       });
 
       document.addEventListener('keydown', (e) => {
@@ -2291,31 +2591,37 @@
         }
       });
 
-      // Load Verified 2026 Berlin Michelin Dataset
+      // Auto-register any additional city keys present in restaurants.json
+      function registerExtraCities() {
+        const known = new Set(CITIES.map((c) => c.id));
+        const byCity = new Map();
+        restaurants.forEach((r) => {
+          const cid = (r.city || 'berlin').toLowerCase();
+          if (!known.has(cid)) {
+            if (!byCity.has(cid)) byCity.set(cid, []);
+            byCity.get(cid).push(r);
+          }
+        });
+        byCity.forEach((list, cid) => {
+          const avgLat = list.reduce((s, x) => s + x.lat, 0) / list.length;
+          const avgLng = list.reduce((s, x) => s + x.lng, 0) / list.length;
+          const label = cid.charAt(0).toUpperCase() + cid.slice(1);
+          CITIES.push({ id: cid, name: label, country: '', center: [avgLat, avgLng], zoom: 12 });
+        });
+      }
+
+      // Load Multi-City 2026 Michelin Dataset
       async function init() {
         try {
           const res = await fetch('./restaurants.json', { cache: 'no-cache' });
           if (!res.ok) throw new Error(`HTTP ${res.status}`);
           restaurants = await res.json();
 
-          // Update live badge counts
-          const c3 = restaurants.filter((r) => r.stars === 3).length;
-          const c2 = restaurants.filter((r) => r.stars === 2).length;
-          const c1 = restaurants.filter((r) => r.stars === 1).length;
-          const cBib = restaurants.filter((r) => r.stars === 0 && getDistinction(r) === 'bib').length;
-          const cSel = restaurants.filter((r) => r.stars === 0 && getDistinction(r) === 'selected').length;
-          const cG = restaurants.filter((r) => r.greenStar).length;
-
-          document.getElementById('countAll').textContent = restaurants.length;
-          document.getElementById('count3').textContent = c3;
-          document.getElementById('count2').textContent = c2;
-          document.getElementById('count1').textContent = c1;
-          document.getElementById('countBib').textContent = cBib;
-          document.getElementById('countSelected').textContent = cSel;
-          document.getElementById('countGreen').textContent = cG;
-          document.getElementById('brandSummary').textContent = `2026 Guide · ${restaurants.length} Spots`;
-
-          renderMarkers(true);
+          registerExtraCities();
+          activeCity = resolveInitialCity();
+          renderCitySwitcher();
+          syncCityCountsAndLabels();
+          renderMarkers(true, false);
         } catch (err) {
           console.error('Failed to load restaurants.json:', err);
           showToast('Unable to load restaurant data. Serve via HTTP or GitHub Pages.', 5000);

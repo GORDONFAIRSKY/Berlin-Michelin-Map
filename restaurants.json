@@ -29,7 +29,8 @@
         "caption": "Inspiration Tasting Menu"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "coda",
@@ -61,7 +62,8 @@
         "caption": "Tasting Menu & Pairings"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "facil",
@@ -93,7 +95,8 @@
         "caption": "Dining Room & Bamboo Terrace"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "horvath",
@@ -125,7 +128,8 @@
         "caption": "Dining Room & Kitchen"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "tim-raue",
@@ -157,7 +161,8 @@
         "caption": "Asian-Inspired Fine Dining"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "bandol-sur-mer",
@@ -189,7 +194,8 @@
         "caption": "Open Kitchen & Bistro Tables"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "bonvivant",
@@ -221,7 +227,8 @@
         "caption": "Seasonal Plant-Based Menu"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "bricole",
@@ -253,7 +260,8 @@
         "caption": "Evening Atmosphere"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "cookies-cream",
@@ -285,7 +293,8 @@
         "caption": "Seasonal Plant-Forward Dish"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "golvet",
@@ -317,7 +326,8 @@
         "caption": "Open Kitchen & Skyline"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "hallmann-und-klee",
@@ -349,7 +359,8 @@
         "caption": "Seasonal Tasting Menu"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "hugos",
@@ -381,7 +392,8 @@
         "caption": "Modern Haute Cuisine"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "irma-la-douce",
@@ -413,7 +425,8 @@
         "caption": "Bistro Elegance & Wine"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "lorenz-adlon-esszimmer",
@@ -445,7 +458,8 @@
         "caption": "Brandenburg Gate Salon"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "loumi",
@@ -477,7 +491,8 @@
         "caption": "Counter & Open Kitchen"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "matthias",
@@ -509,7 +524,8 @@
         "caption": "Evening Atmosphere"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "nobelhart-schmutzig",
@@ -541,7 +557,8 @@
         "caption": "Friedrichstraße Dining Room"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "pars-restaurant",
@@ -573,7 +590,8 @@
         "caption": "Artisanal pars Pralines"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "tulus-lotrek",
@@ -605,7 +623,8 @@
         "caption": "Evening Atmosphere"
       }
     ],
-    "distinction": "star"
+    "distinction": "star",
+    "city": "berlin"
   },
   {
     "id": "barra",
@@ -637,7 +656,8 @@
         "url": "https://cdn.prod.website-files.com/697b660e4391591e972dc6a8/6a7c4e829d01a73a63a4155c_BARRASept%2724Shoot-21.avif",
         "caption": "Dining & Atmosphere · Neukölln"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "chez-nassib",
@@ -665,7 +685,8 @@
         "url": "https://chez-nassib.de/wp-content/uploads/2026/10/Chez-Nassib-Restaurant-Berlin.webp",
         "caption": "Dining Room · Wilmersdorf"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "lucky-leek",
@@ -689,7 +710,8 @@
         "url": "https://prod-pics.guide.michelin.com/api/public/content/6e6524ab405d46808e88f32c29820cb9.jpg?w=1000&format=webp",
         "caption": "Vegan Tasting Course · Michelin Guide"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "mamis",
@@ -721,7 +743,8 @@
         "url": "https://mitvergnuegen.com/resizer/images/7b227769647468223a313838307d/wp-content/uploads/2021/07/mamis-6a.jpg.webp",
         "caption": "Seasonal Plates · MaMi's"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "mastan",
@@ -749,7 +772,8 @@
         "url": "https://restaurantmastan.com/wp-content/uploads/2026/11/web_%C2%A9-Studio-Kroll-MASTAN-44-1333x2000.webp",
         "caption": "Dining Room & Wine · Kreuzberg"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "november-brasserie",
@@ -777,7 +801,8 @@
         "url": "https://static.tildacdn.net/tild3036-3062-4664-a433-346634653263/November_interieur5_.jpg",
         "caption": "Dining & Atmosphere · Prenzlauer Berg"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "nussbaumerin",
@@ -809,7 +834,8 @@
         "url": "https://nussbaumerin.de/wp-content/uploads/2020/07/Nussbaumerin_Fotos-von-White-Kitchen_11-scaled.jpg",
         "caption": "Culinary Highlight · Nußbaumerin"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "remi",
@@ -841,7 +867,8 @@
         "url": "https://cdn.prod.website-files.com/6a7335392a9cf046b89250e4%2F6a82f534cb12c126cb5f9d66_Remi%20-%20Website%20Header%20-%20Mobile%20-%201280x720_poster.0000000.jpg",
         "caption": "Open Kitchen · Mitte"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "salhino",
@@ -873,7 +900,8 @@
         "url": "https://salhino.de/wp-content/uploads/2026/10/salhino-band-tischdecke.webp",
         "caption": "Culinary Highlight · Salhino"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "136",
@@ -897,7 +925,8 @@
         "url": "https://prod-pics.guide.michelin.com/api/public/content/61d8727cead54b29b3bdba37f5344388.jpeg?w=1000&format=webp",
         "caption": "Peru-Italy Fusion · Michelin Guide"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "893-ryotei",
@@ -925,7 +954,8 @@
         "url": "https://893ryotei.de/wp-content/uploads/2016/12/893videostill.jpg",
         "caption": "Open Kitchen & Bar · Kantstraße"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "aerde",
@@ -953,7 +983,8 @@
         "url": "https://static1.squarespace.com/static/61e985089ae26868cfb00ac6/t/64d244d1739bf46945f8101d/1691501782748/aerde_restaurant.jpg?format=1500w",
         "caption": "Minimalist Dining Room · Lokdepot"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "bardele",
@@ -985,7 +1016,8 @@
         "url": "https://images.squarespace-cdn.com/content/v1/68c7fc8da56c6112667840fe/6c7cb66a-3c1f-4cd2-b94d-5f7951aa918a/25-07-Bardele-0415_c_RobertRieger.jpg",
         "caption": "Ristorante & Bar · Mitte"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "berta",
@@ -1017,7 +1049,8 @@
         "url": "https://static.wixstatic.com/media/04692e_cf521f53e6144c989f26eef6b3c5b013%7Emv2.png/v1/fit/w_2500,h_1330,al_c/04692e_cf521f53e6144c989f26eef6b3c5b013%7Emv2.png",
         "caption": "Dining & Atmosphere · Kreuzberg"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "bieberbau",
@@ -1045,7 +1078,8 @@
         "url": "https://www.bieberbau-berlin.de/wp-content/uploads/2026/08/header-2-1.jpg",
         "caption": "Historic 1894 Stucco Room · Wilmersdorf"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "bob-thoms",
@@ -1077,7 +1111,8 @@
         "url": "https://bobthoms.berlin/images/sharing.jpg",
         "caption": "Dining & Atmosphere · Schöneberg"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "bocca-di-bacco",
@@ -1109,7 +1144,8 @@
         "url": "https://www.boccadibacco.de/fileadmin/_processed_/8/8/csm_bdb_ebfd51341f.jpg",
         "caption": "Bocca di Bacco Interior"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "colette-tim-raue",
@@ -1141,7 +1177,8 @@
         "url": "https://images.prismic.io/brasseriecolettev3/Zsc4p0aF0TcGJP-W_BrasserieColetteBerlin_Sitzgelegenheit.jpg?ar=1.68%3A1&fit=crop&auto=format&q=80&w=1280",
         "caption": "Dining Room · Schöneberg"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "brasserie-lamazere",
@@ -1169,7 +1206,8 @@
         "url": "https://lamazere.de/wp-content/uploads/2021/10/lamazere-food-25-scaled.webp",
         "caption": "Classic French Fare · Stuttgarter Platz"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "brikz",
@@ -1201,7 +1239,8 @@
         "url": "https://images.squarespace-cdn.com/content/v1/62f4955dbd35e71c26064490/9c76a0d5-d14e-4d0b-8577-cc6a5c33fa2f/Interieur_4.jpg",
         "caption": "Dining Room · Grolmanstraße"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "carte-blanche",
@@ -1233,7 +1272,8 @@
         "url": "https://dq5r178u4t83b.cloudfront.net/wp-content/uploads/sites/133/2026/01/27132757/2CA460F8-3F6E-4A2D-B64C-ECD6DE9995FF-800x690.jpg",
         "caption": "Seasonal Plates · CARTE BLANCHE"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "chateau-royal",
@@ -1261,7 +1301,8 @@
         "url": "https://www.chateauroyalberlin.com/media/pages/home/modules/lead-image/876e32a13f-1732633627/chateau-royal-facade-1280x720-crop-50-56.jpg",
         "caption": "Château Royal · Mitte"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "crackers",
@@ -1293,7 +1334,8 @@
         "url": "https://crackersberlin.com/wp-content/uploads/2023/11/cookies-crackers3987.jpg",
         "caption": "Evening Atmosphere · Mitte"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "dae-mon",
@@ -1325,7 +1367,8 @@
         "url": "https://prod-pics.guide.michelin.com/api/public/content/63ee8c1e5a254416acdb248105661803.jpg?w=1000&format=webp",
         "caption": "Creative Plating · Monbijouplatz"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "diekmann",
@@ -1353,7 +1396,8 @@
         "url": "https://diekmann-restaurant.de/wp-content/uploads/2021/10/diekmann-interior-03-scaled.webp",
         "caption": "Historic Salon & Oyster Bar · Meinekestraße"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "eins44",
@@ -1381,7 +1425,8 @@
         "url": "https://www.visitberlin.de/system/files/styles/visitberlin25_content_image_medium_portrait_visitberlin25_mobile_1x/private/image/KW32_5c_foodspot_Eins44.jpg?itok=c2ealTqh",
         "caption": "Converted Distillery Loft · Neukölln"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "fa-me",
@@ -1409,7 +1454,8 @@
         "url": "https://famegastrobar.com/og-image.jpg",
         "caption": "Fa:me Dining · Neukölln"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "fukagawa-fine-dining",
@@ -1441,7 +1487,8 @@
         "url": "https://fukagawa-finedining.de/raum-bogen-moody.png",
         "caption": "Dining & Atmosphere · Kreuzberg"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "fukagawa-ramen-xberg",
@@ -1473,7 +1520,8 @@
         "url": "https://customer-1emljje1ai09ytxw.cloudflarestream.com/4f02884177b50c86be8cfcb166c4ab04/thumbnails/thumbnail.jpg?time=&height=600",
         "caption": "Fukagawa Ramen Bar"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "funky-fisch",
@@ -1501,7 +1549,8 @@
         "url": "https://neu.funky-fisch.de/wp-content/uploads/2023/05/fresh-fish-restaurant-berlin-31.jpg",
         "caption": "Dining & Atmosphere · Charlottenburg"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "grace",
@@ -1533,7 +1582,8 @@
         "url": "https://grace-restaurant.de/wp-content/uploads/2026/07/Restaurant_Crowd2_Neu-web_-1.jpg",
         "caption": "Dining & Atmosphere · Charlottenburg"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "india-club",
@@ -1561,7 +1611,8 @@
         "url": "https://images.squarespace-cdn.com/content/v1/606dd23cc95a596f765660db/d0e37c54-4ab7-4c2f-b752-06018241be9c/India+Club+-+Interior+-+Raumaufnahmen+-+%28c%29+Steffen+Sinzinger+%E2%80%A2+Content+%26+Communication++-+260409+-36.jpg",
         "caption": "Adlon Palais Interior · Mitte"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "jager-lustig",
@@ -1589,7 +1640,8 @@
         "url": "https://jaegerundlustig.de/wp-content/uploads/2023/10/jaeger-und-lustig-restaurant-biergarten-berlin-friedrichshain-teaser-650x650-1.jpg",
         "caption": "Tavern & Beer Garden · Friedrichshain"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "jaja",
@@ -1617,7 +1669,8 @@
         "url": "https://jajawein.de/images/8.jpg",
         "caption": "JAJA Dining Room · Weichselstraße"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "julius-ernst",
@@ -1649,7 +1702,8 @@
         "url": "https://juliusernstberlin.de/media/site/40ed744845-1753195838/julius-026-4096x-q80.jpg",
         "caption": "Dining & Atmosphere · Wedding"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "kitchen-library",
@@ -1677,7 +1731,8 @@
         "url": "https://www.kitchen-library.de/wp-content/uploads/2023/08/7G9A4092.jpg",
         "caption": "Dining Room · Bleibtreustraße"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "kitten-deli",
@@ -1705,7 +1760,8 @@
         "url": "https://mitvergnuegen.com/resizer/images/7b227769647468223a313838307d/wp-content/uploads/2020/06/kitten-deli-daliah-hoffmann-13-kopie.jpg.webp",
         "caption": "Friedelstraße Corner · Neukölln"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "kurpfalz-weinstuben",
@@ -1737,7 +1793,8 @@
         "url": "https://kurpfalz-weinstuben.de/wp-content/uploads/2026/04/Kurpfalz-Weinstuben-1.png",
         "caption": "Culinary Highlight · Kurpfalz Weinstuben"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "li-ke-thai-vegan",
@@ -1765,7 +1822,8 @@
         "url": "https://images.squarespace-cdn.com/content/v1/61f87840b105dd0315868918/0a91f1f2-fa37-4006-acb9-1d77d42d4a54/40541938_262526407616309_3374717034488698917_n.jpg",
         "caption": "Culinary Highlight · Li.Ke Thai Vegan"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "long-march-canteen",
@@ -1793,7 +1851,8 @@
         "url": "https://longmarchcanteen.com/wp-content/uploads/2021/12/lmc-1.jpg",
         "caption": "Dining Room · Wrangelstraße"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "lovis",
@@ -1825,7 +1884,8 @@
         "url": "https://www.visitberlin.de/system/files/styles/visitberlin25_content_image_medium_landscape_visitberlin25_mobile_1x/private/image/Lovis_1_c_visitBerlin_Mo_W%C3%BCstenhagen_web.jpg?h=1c9b88c9&itok=Y6Uwqfve",
         "caption": "Wilmina Courtyard Dining · Charlottenburg"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "macionga",
@@ -1857,7 +1917,8 @@
         "url": "https://restaurantmacionga.com/wp-content/uploads/2023/01/ram_web_content_urkraft_1_2.jpg",
         "caption": "Macionga Dining · Xantener Straße"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "madame-ngo",
@@ -1885,7 +1946,8 @@
         "url": "https://test.madame-ngo.de/wp-content/uploads/2024/05/vietnamese-specialties-berlin-west.jpg",
         "caption": "Culinary Highlight · Madame Ngo - Une Brasserie Hanoi"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "merold",
@@ -1909,7 +1971,8 @@
         "url": "https://prod-pics.guide.michelin.com/api/public/content/b3077d3654804d9d90c8279a74d4f9de.jpeg?w=1000&format=webp",
         "caption": "Organic Seasonal Dish · Michelin Guide"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "mine",
@@ -1941,7 +2004,8 @@
         "url": "https://minerestaurant.de/og-image.jpg",
         "caption": "Dining & Atmosphere · Charlottenburg"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "nanum",
@@ -1969,7 +2033,8 @@
         "url": "https://images.squarespace-cdn.com/content/v1/5f33cef268ee0910f59bcce1/f3b33915-1612-40a1-aa48-9b765ca053eb/20231019_155409.jpg",
         "caption": "Ceramic Gallery & Dining · Kreuzberg"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "norms",
@@ -1997,7 +2062,8 @@
         "url": "https://norms-food.de/wp-content/uploads/2026/01/image0-Wiederhergestellt.png",
         "caption": "Culinary Highlight · Norms"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "orania-berlin",
@@ -2029,7 +2095,8 @@
         "url": "https://orania.berlin/fileadmin/_processed_/4/9/csm_2021.06.15_Restaurant_Orania_Test_Shooting_Food_PCTRBRLN-4_2b6d0e3931.jpg",
         "caption": "Dining & Atmosphere · Kreuzberg"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "otsuka",
@@ -2057,7 +2124,8 @@
         "url": "https://mischen-berlin.de/en/wp-content/uploads/2024/12/otsuka_mischen_01.jpg",
         "caption": "Minimalist Ash Counter · OTSUKA"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "otto",
@@ -2089,7 +2157,8 @@
         "url": "https://cloud-1de12d.becdn.net/media/iW=1200&iH=630/17b8ce436f2cd031969553ca64ea8473.png",
         "caption": "Dining & Atmosphere · Prenzlauer Berg"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "oukan",
@@ -2117,7 +2186,8 @@
         "url": "https://www.oukan.de/wp-content/uploads/yootheme/cache/4f/Oukan-Entrance-4f02ce68.jpg?src=wp-content/uploads/2026/08/Oukan-Entrance.jpg&thumbnail=780,738,&hash=184c4cf9",
         "caption": "Dining & Atmosphere · Mitte"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "pots",
@@ -2145,7 +2215,8 @@
         "url": "https://mds-assets.marriott.com/cdn-cgi/image/f=auto/cms-platform-for-marriott/berzt-pots/site-images/the-ritz-carlton-berlin-pots-4-foto-matthew-shaw.jpg?cropY=1367&cropW=5415&cropH=1881&width=1200&height=630",
         "caption": "Dining & Atmosphere · Tiergarten · Potsdamer Platz"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "rutz-zollhaus",
@@ -2173,7 +2244,8 @@
         "url": "https://rutz-zollhaus.de/wp-content/uploads/revslider/spoonslider/v8_Slider@2x.jpg",
         "caption": "Historic Customs House · Landwehr Canal"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "skykitchen",
@@ -2205,7 +2277,8 @@
         "url": "https://skykitchen.berlin/wp-content/uploads/2026/02/slide-07.jpg",
         "caption": "Dining & Atmosphere · Lichtenberg"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "stoke",
@@ -2229,7 +2302,8 @@
         "url": "https://cdn.prod.website-files.com/67cffc9548148f8d49975070/68c92f37cc0c29120fae7d00_milieu.vision_1757671555_3719941082025858839_52088462470.jpg",
         "caption": "Interior & Ambience · Stoke"
       }
-    ]
+    ],
+    "city": "berlin"
   },
   {
     "id": "vox",
@@ -2260,6 +2334,1941 @@
       {
         "url": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2026/03/23/0425/BERGH-P2309-Vox-Breakfast-Brunch-Table-Food.jpg/BERGH-P2309-Vox-Breakfast-Brunch-Table-Food.16x9.jpg",
         "caption": "Seasonal Table · VOX Restaurant"
+      }
+    ],
+    "city": "berlin"
+  },
+  {
+    "id": "jan-munich",
+    "city": "munich",
+    "name": "JAN",
+    "stars": 3,
+    "distinction": "star",
+    "greenStar": false,
+    "address": "Luisenstraße 27, 80333 München",
+    "neighborhood": "Maxvorstadt",
+    "lat": 48.144798,
+    "lng": 11.562832,
+    "cuisine": "Creative · Modern Cuisine",
+    "priceTier": "€€€€",
+    "chef": "Jan Hartwig",
+    "hours": "Tue–Thu 18:30–23:00 · Fri 12:00–15:00 & 19:00–23:00 · Closed Sat–Mon",
+    "review": "Set in Munich's museum quarter, Jan Hartwig's intimate flagship earned three Michelin stars straight from opening with deeply layered, intellectually playful tasting menus. Classic French foundations meet subtle Bavarian childhood memories and immaculate sauces in a serene, contemporary dining room with just ten tables.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/jan-1204321",
+    "websiteUrl": "https://jan-hartwig.com/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/6809d2deb48b4e11a445294e72ba6b26.jpeg?w=1000&format=webp",
+        "caption": "Signature Course · Michelin Guide"
+      },
+      {
+        "url": "https://jan-hartwig.com/wp-content/uploads/2023/10/jan-hartwig-restaurant-jan-2.jpg",
+        "caption": "Dining & Atmosphere · Maxvorstadt"
+      },
+      {
+        "url": "https://jan-hartwig.com/wp-content/uploads/2026/11/portrait-jan-hartwig-sw.jpg",
+        "caption": "Culinary Highlight · JAN"
+      }
+    ]
+  },
+  {
+    "id": "tohru-in-der-schreiberei",
+    "city": "munich",
+    "name": "Tohru in der Schreiberei",
+    "stars": 3,
+    "distinction": "star",
+    "greenStar": false,
+    "address": "Burgstraße 5, 80331 München",
+    "neighborhood": "Altstadt",
+    "lat": 48.137686,
+    "lng": 11.5776,
+    "cuisine": "Modern Cuisine",
+    "priceTier": "€€€€",
+    "chef": "Tohru Nakamura & Dominik Schmid",
+    "hours": "Tue–Sat 19:00–23:30 · Closed Sun–Mon",
+    "review": "Housed upstairs inside Munich's oldest surviving town house steps from Marienplatz, Tohru Nakamura blends European fine dining with Japanese sensibilities, dashi-driven clarity, and seasonal Bavarian produce. Elevated to three Michelin stars, the multi-course tasting unfolds with serene elegance and deeply expressive umami.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/tohru-in-der-schreiberei",
+    "websiteUrl": "https://schreiberei-muc.de/tohru",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/a5f2486ce701408aa324d484b742ce28.jpeg?w=1000&format=webp",
+        "caption": "Signature Course · Michelin Guide"
+      },
+      {
+        "url": "https://schreiberei-muc.de/images/og-tohru.jpg",
+        "caption": "Dining & Atmosphere · Altstadt"
+      },
+      {
+        "url": "https://www.schreiberei-muc.de/images/origin-image-1-optimized.jpg",
+        "caption": "Culinary Highlight · Tohru in der Schreiberei"
+      }
+    ]
+  },
+  {
+    "id": "alois-dallmayr-fine-dining",
+    "city": "munich",
+    "name": "Alois - Dallmayr Fine Dining",
+    "stars": 2,
+    "distinction": "star",
+    "greenStar": false,
+    "address": "Dienerstraße 14-15, 80331 München",
+    "neighborhood": "Altstadt",
+    "lat": 48.138401,
+    "lng": 11.577484,
+    "cuisine": "Creative",
+    "priceTier": "€€€€",
+    "chef": "Rosina Ostler",
+    "hours": "Wed–Thu 19:00–23:30 · Fri–Sat 12:30–15:00 & 19:00–23:30 · Closed Sun–Tue",
+    "review": "Perched above the historic Dallmayr delicatessen, Rosina Ostler leads this storied two-star dining room with fresh Nordic-influenced clarity and inventive flavor pairings. Luminous seasonal courses highlight exceptional regional and international ingredients alongside an encyclopedic wine cellar.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/alois-dallmayr-fine-dining",
+    "websiteUrl": "https://www.dallmayr.com/deen/delicatessen/restaurant/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/a491bb84f4924f6e90c051f2bc022f5b.jpeg?w=1000&format=webp",
+        "caption": "Fine Dining Course · Michelin Guide"
+      },
+      {
+        "url": "https://www.dallmayr.com/fileadmin/_processed_/9/0/csm_hero_0c1123f9ea.webp",
+        "caption": "Dining & Atmosphere · Altstadt"
+      },
+      {
+        "url": "https://www.dallmayr.com/fileadmin/_processed_/9/c/csm_alois_768bd6564a.webp",
+        "caption": "Culinary Highlight · Alois - Dallmayr Fine Dining"
+      }
+    ]
+  },
+  {
+    "id": "atelier-munich",
+    "city": "munich",
+    "name": "Atelier",
+    "stars": 2,
+    "distinction": "star",
+    "greenStar": false,
+    "address": "Promenadeplatz 2-6, 80333 München",
+    "neighborhood": "Altstadt",
+    "lat": 48.140637,
+    "lng": 11.572909,
+    "cuisine": "Modern Cuisine",
+    "priceTier": "€€€€",
+    "chef": "Kevin Romes",
+    "hours": "Tue–Sat 18:30–23:00 · Closed Sun–Mon",
+    "review": "Inside the grand Hotel Bayerischer Hof in an atmospheric salon designed by Axel Vervoordt, Atelier delivers polished two-star cuisine anchored in classical precision and bold contemporary accents. Chef Kevin Romes crafts focused, aromatic tasting menus complemented by warm, grand-hotel hospitality.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/atelier-1198719",
+    "websiteUrl": "https://www.bayerischerhof.de/de/erleben-geniessen/restaurants-bars/restaurants/atelier.html",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/faa85dd0f1094cfea162a7909b343c0a.jpeg?w=1000&format=webp",
+        "caption": "Atelier Tasting Menu · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "komu-munich",
+    "city": "munich",
+    "name": "KOMU",
+    "stars": 2,
+    "distinction": "star",
+    "greenStar": false,
+    "address": "Hackenstraße 4, 80331 München",
+    "neighborhood": "Altstadt",
+    "lat": 48.136074,
+    "lng": 11.570385,
+    "cuisine": "Classic Cuisine · Modern Cuisine",
+    "priceTier": "€€€€",
+    "chef": "Christoph Kunz",
+    "hours": "Wed 18:30–23:30 · Thu–Sat 12:00–15:00 & 18:30–23:30 · Closed Sun–Tue",
+    "review": "In a sleek, minimalist Hackenviertel space centered around an open kitchen, Christoph Kunz showcases two-star technical mastery with stripped-back, intensely flavored dishes. Crisp acidity, pinpoint cooking temperatures, and poised French-modern sauces define one of Munich's most exciting gourmet tables.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/komu",
+    "websiteUrl": "https://komu-restaurant.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/7ad82506cabd43c08910ffbab1cd7fed.jpg?w=1000&format=webp",
+        "caption": "Signature Plate · Michelin Guide"
+      },
+      {
+        "url": "https://komu-restaurant.de/wp-content/uploads/christoph-kunz-2023-1.jpg",
+        "caption": "Dining & Atmosphere · Altstadt"
+      },
+      {
+        "url": "https://komu-restaurant.de/wp-content/uploads/reservierung-5-gang.jpg",
+        "caption": "Culinary Highlight · KOMU"
+      }
+    ]
+  },
+  {
+    "id": "tantris",
+    "city": "munich",
+    "name": "Tantris",
+    "stars": 2,
+    "distinction": "star",
+    "greenStar": false,
+    "address": "Johann-Fichte-Straße 7, 80805 München",
+    "neighborhood": "Schwabing",
+    "lat": 48.169911,
+    "lng": 11.588567,
+    "cuisine": "French Contemporary",
+    "priceTier": "€€€€",
+    "chef": "Benjamin Chmura",
+    "hours": "Wed–Sat 12:00–16:00 & 18:30–24:00 · Closed Sun–Tue",
+    "review": "An icon of German gastronomy housed in Justus Dahinden's landmark 1971 red-and-black architectural temple. Under Benjamin Chmura, Tantris celebrates grand contemporary French cuisine—sumptuous sauces, luxury ingredients, and Michelin 2026 Sommelier Award-winning wine service.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/tantris-75719",
+    "websiteUrl": "https://tantris.de/en/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/3bc99c3ecae74a62b2cdb84670ec3831.jpeg?w=1000&format=webp",
+        "caption": "French Haute Cuisine · Michelin Guide"
+      },
+      {
+        "url": "https://tantris.de/wp-content/uploads/2021/11/Restaurant_Tantris_01_bearb-1000x667.jpg",
+        "caption": "Dining & Atmosphere · Schwabing"
+      },
+      {
+        "url": "https://tantris.de/wp-content/uploads/2021/11/Tantris_DNA-1000x667.jpg",
+        "caption": "Culinary Highlight · Tantris"
+      }
+    ]
+  },
+  {
+    "id": "the-cloud-by-kafer",
+    "city": "munich",
+    "name": "THE CLOUD by Käfer",
+    "stars": 2,
+    "distinction": "star",
+    "greenStar": false,
+    "address": "Am Olympiapark 1, 80809 München",
+    "neighborhood": "Olympiapark · BMW Welt",
+    "lat": 48.1773,
+    "lng": 11.556586,
+    "cuisine": "Contemporary",
+    "priceTier": "€€€€",
+    "chef": "Jens Madsen",
+    "hours": "Tue–Sat 19:00–24:00 · Closed Sun–Mon",
+    "review": "Crowned MICHELIN Guide Germany 2026 Opening of the Year with an immediate leap to two stars, Jens Madsen's futuristic dining room inside BMW Welt explores 'Culinary Nomadism.' Each year spotlights a different global culinary region translated through seasonal luxury produce and arresting modern technique.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/the-cloud-by-kafer",
+    "websiteUrl": "https://thecloud.restaurant/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/0235a4192d9748e5b98d908269099595.jpg?w=1000&format=webp",
+        "caption": "Culinary Nomadism · Michelin Guide"
+      },
+      {
+        "url": "https://thecloud.restaurant/wp-content/uploads/2025/05/The-Cloud-by-Kafer-Render-Designworks-1024x576.jpg",
+        "caption": "Dining & Atmosphere · Olympiapark · BMW Welt"
+      },
+      {
+        "url": "https://thecloud.restaurant/wp-content/uploads/2026/07/THE-CLOUD-Season-II-Jens-Madsen.jpg",
+        "caption": "Culinary Highlight · THE CLOUD by Käfer"
+      }
+    ]
+  },
+  {
+    "id": "1804-hirschau",
+    "city": "munich",
+    "name": "1804 Hirschau",
+    "stars": 1,
+    "distinction": "star",
+    "greenStar": true,
+    "address": "Gyßlingstraße 15, 80805 München",
+    "neighborhood": "Englischer Garten",
+    "lat": 48.16181,
+    "lng": 11.60259,
+    "cuisine": "Modern Cuisine · Farm to table",
+    "priceTier": "€€€€",
+    "chef": "Lukas Adebahr",
+    "hours": "Wed–Sat 18:00–23:00 · Closed Sun–Tue",
+    "review": "Tucked beside Munich's Englischer Garten, 1804 Hirschau pairs a red Michelin star with Green Star sustainability credentials. Chef Lukas Adebahr harvests vegetables and herbs from the restaurant's own permaculture garden to compose bright, seasonal tasting menus rooted in Bavarian terroir.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/1804-hirschau",
+    "websiteUrl": "https://1804muc.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/348672de8bca48cf9ee07142d79f16e9.jpeg?w=1000&format=webp",
+        "caption": "Garden-to-Table Tasting · Michelin Guide"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/60e048538a3a203a13bd51fa/9ceb61b5-d4d1-4dfb-9b05-17e915c843d2/DSC03971.JPG",
+        "caption": "Dining & Atmosphere · Englischer Garten"
+      }
+    ]
+  },
+  {
+    "id": "brothers-munich",
+    "city": "munich",
+    "name": "Brothers",
+    "stars": 1,
+    "distinction": "star",
+    "greenStar": false,
+    "address": "Kurfürstenstraße 31, 80801 München",
+    "neighborhood": "Schwabing",
+    "lat": 48.156252,
+    "lng": 11.575817,
+    "cuisine": "Modern Cuisine",
+    "priceTier": "€€€€",
+    "chef": "Daniel Bodamer",
+    "hours": "Tue–Thu 18:30–24:00 · Fri 19:00–24:00 · Sat 12:00–15:00 & 19:00–24:00 · Closed Sun–Mon",
+    "review": "An effortlessly stylish Schwabing dining room where chef Daniel Bodamer and his team serve lively, modern menus without fine-dining stiffness. Expect vibrant seasonal flavors, playful international accents, and an upbeat neighborhood atmosphere backed by thoughtful wine pairings.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/brothers",
+    "websiteUrl": "https://brothers-munich.com/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/886c50b2f76c4348a399a7298a1ba209.jpg?w=1000&format=webp",
+        "caption": "Modern Tasting Course · Michelin Guide"
+      },
+      {
+        "url": "https://www.brothers-munich.com/wp-content/uploads/2026/01/dsc06973-e1768492566804-1024x684.jpg",
+        "caption": "Dining & Atmosphere · Schwabing"
+      },
+      {
+        "url": "https://www.brothers-munich.com/wp-content/uploads/2022/12/3-2.jpg",
+        "caption": "Culinary Highlight · Brothers"
+      }
+    ]
+  },
+  {
+    "id": "gabelspiel",
+    "city": "munich",
+    "name": "Gabelspiel",
+    "stars": 1,
+    "distinction": "star",
+    "greenStar": false,
+    "address": "Zehentbauernstraße 20, 81539 München",
+    "neighborhood": "Obergiesing",
+    "lat": 48.113616,
+    "lng": 11.577691,
+    "cuisine": "Modern Cuisine · Farm to table",
+    "priceTier": "€€€€",
+    "chef": "Florian Berger",
+    "hours": "Tue–Sat 18:30–24:00 · Closed Sun–Mon",
+    "review": "A warmly personal, husband-and-wife-run Obergiesing gem where Florian Berger crafts expressive, produce-driven tasting menus while Sabrina Berger leads charming, relaxed service. Refined flavor balance, subtle fermentation notes, and zero pretension make it one of Munich's most beloved one-star spots.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/gabelspiel",
+    "websiteUrl": "https://www.restaurant-gabelspiel.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/44062a216d6e4830899aff0b5576aebc.jpg?w=1000&format=webp",
+        "caption": "Seasonal Tasting Menu · Michelin Guide"
+      },
+      {
+        "url": "https://www.restaurant-gabelspiel.de/wp-content/uploads/2021/06/Gabelspiel_119.jpg",
+        "caption": "Dining & Atmosphere · Obergiesing"
+      }
+    ]
+  },
+  {
+    "id": "les-deux",
+    "city": "munich",
+    "name": "Les Deux",
+    "stars": 1,
+    "distinction": "star",
+    "greenStar": false,
+    "address": "Maffeistraße 3a, 80333 München",
+    "neighborhood": "Altstadt · Schäfflerhof",
+    "lat": 48.139391,
+    "lng": 11.574852,
+    "cuisine": "Modern French · Creative",
+    "priceTier": "€€€€",
+    "chef": "Nathalie Leblond",
+    "hours": "Mon–Tue & Thu–Fri 18:30–24:00 · Closed Wed, Sat–Sun",
+    "review": "Situated upstairs above its bustling sister brasserie in the glass-roofed Schäfflerhof courtyard, Les Deux offers poised, modern French gastronomy under chef Nathalie Leblond. Delicate plating, classic French sauces lightened for today, and polished service define an intimate city-center experience.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/les-deux",
+    "websiteUrl": "https://lesdeux-muc.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/3123b038003945c6b3e9a32449eb9d43.jpg?w=1000&format=webp",
+        "caption": "Modern French Cuisine · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "sparkling-bistro",
+    "city": "munich",
+    "name": "Sparkling Bistro",
+    "stars": 1,
+    "distinction": "star",
+    "greenStar": false,
+    "address": "Amalienstraße 89, 80799 München",
+    "neighborhood": "Maxvorstadt",
+    "lat": 48.151819,
+    "lng": 11.578331,
+    "cuisine": "Modern Cuisine",
+    "priceTier": "€€€€",
+    "chef": "Jürgen Wolfsgruber",
+    "hours": "Wed–Thu 18:00–24:00 · Fri–Sat 12:00–15:00 & 18:00–24:00 · Closed Sun–Tue",
+    "review": "Hidden inside the leafy Amalienpassage courtyard, Jürgen Wolfsgruber's intimate bistro delivers exuberant, flavor-packed one-star menus with Austrian-Alpine soul and cosmopolitan flair. Vibrant sauces, crisp textures, and an exuberant Champagne and wine program give the room genuine sparkle.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/sparkling-bistro",
+    "websiteUrl": "https://restaurantsparklingbistro.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/0304bf0161594f63aeb15dabf7638621.jpg?w=1000&format=webp",
+        "caption": "Tasting Course · Michelin Guide"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/64f6d42b4241210bff1d7e70/7828e265-6c23-4bac-82d3-fbac971d60cc/Sparkling_Bistro_01-23_Reportage_72dpi_024.jpg",
+        "caption": "Dining & Atmosphere · Maxvorstadt"
+      }
+    ]
+  },
+  {
+    "id": "tantris-dna",
+    "city": "munich",
+    "name": "Tantris DNA",
+    "stars": 1,
+    "distinction": "star",
+    "greenStar": false,
+    "address": "Johann-Fichte-Straße 7, 80805 München",
+    "neighborhood": "Schwabing",
+    "lat": 48.169749,
+    "lng": 11.588147,
+    "cuisine": "Classic French",
+    "priceTier": "€€€€",
+    "chef": "Benjamin Chmura",
+    "hours": "Wed–Sat 12:00–16:00 & 18:30–24:00 · Closed Sun–Tue",
+    "review": "Housed inside the legendary Tantris Maison Culinaire, Tantris DNA honors the house's iconic 50-year culinary heritage through timeless à la carte French classics. Expect impeccably prepared turbot, sweetbreads, and soufflés executed with one-star rigor in a vibrant retro-chic salon.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/tantris-dna",
+    "websiteUrl": "https://tantris.de/en/restaurant-tantris-dna/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/cc882aaed50d4ac19e4d5cf2698a4a84.jpg?w=1000&format=webp",
+        "caption": "Classic French Heritage · Michelin Guide"
+      },
+      {
+        "url": "https://tantris.de/wp-content/uploads/2023/07/tantris-dna-kalbsbries-rumohr-2023-03-28-joerg-lehmann.jpg",
+        "caption": "Dining & Atmosphere · Schwabing"
+      }
+    ]
+  },
+  {
+    "id": "werneckhof-sigi-schelling",
+    "city": "munich",
+    "name": "Werneckhof Sigi Schelling",
+    "stars": 1,
+    "distinction": "star",
+    "greenStar": false,
+    "address": "Werneckstraße 11, 80802 München",
+    "neighborhood": "Schwabing",
+    "lat": 48.159246,
+    "lng": 11.588465,
+    "cuisine": "French Contemporary",
+    "priceTier": "€€€€",
+    "chef": "Sigi Schelling",
+    "hours": "Wed–Sat 12:00–16:00 & 18:30–24:00 · Closed Sun–Tue",
+    "review": "Inside a charming historic Schwabing townhouse, Sigi Schelling crafts deeply soulful, sauce-driven contemporary French cuisine with Austrian sensibility and supreme product quality. Warm, unhurried hospitality and razor-sharp classic technique make every lunch or dinner memorable.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/werneckhof-sigi-schelling",
+    "websiteUrl": "https://werneckhof-schelling.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/510251cc0eff42fc872c7d988cffa6bf.jpeg?w=1000&format=webp",
+        "caption": "French Contemporary · Michelin Guide"
+      },
+      {
+        "url": "https://werneckhof-schelling.de/wp-content/uploads/2025/05/1-Sigi-Schelling-Werneckhof-Food-c-Steffen-Sinzinger-OCo-Content-Communication-250221-29-1500x1000.jpg",
+        "caption": "Culinary Highlight · Werneckhof Sigi Schelling"
+      }
+    ]
+  },
+  {
+    "id": "gasthaus-waltz",
+    "city": "munich",
+    "name": "Gasthaus Waltz",
+    "stars": 0,
+    "distinction": "bib",
+    "greenStar": false,
+    "address": "Ickstattstraße 13, 80469 München",
+    "neighborhood": "Glockenbachviertel",
+    "lat": 48.128204,
+    "lng": 11.573057,
+    "cuisine": "Alpine · Regional Cuisine",
+    "priceTier": "€€",
+    "chef": "Florian Lerche",
+    "hours": "Thu–Fri 18:00–23:00 · Sat–Sun 12:00–15:00 & 18:00–23:00 · Closed Mon–Wed",
+    "review": "A convivial Glockenbachviertel tavern earning a Michelin Bib Gourmand for refined Austrian and Alpine classics served with genuine warmth. Alongside crisp Wiener Schnitzel and seasonal plates, an acclaimed wine list featuring Austrian and natural bottles elevates the neighborhood tavern formula.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/gasthaus-waltz",
+    "websiteUrl": "https://www.waltz-gasthaus.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/ed63a0fa5bd34368959aaa0b91bcd319.jpeg?w=1000&format=webp",
+        "caption": "Alpine Tavern Classics · Michelin Guide"
+      },
+      {
+        "url": "https://www.waltz-gasthaus.de/wp-content/uploads/sites/3/2026/07/Waltz-323-1024x683.jpg",
+        "caption": "Dining & Atmosphere · Glockenbachviertel"
+      },
+      {
+        "url": "https://www.waltz-gasthaus.de/wp-content/uploads/sites/3/2026/06/Waltz-116-scaled-e1781256996502-1024x1024.jpg",
+        "caption": "Culinary Highlight · Gasthaus Waltz"
+      }
+    ]
+  },
+  {
+    "id": "mokum-munich",
+    "city": "munich",
+    "name": "mokum",
+    "stars": 0,
+    "distinction": "bib",
+    "greenStar": false,
+    "address": "Alter Messeplatz 6, 80339 München",
+    "neighborhood": "Schwanthalerhöhe",
+    "lat": 48.134715,
+    "lng": 11.545919,
+    "cuisine": "Creative",
+    "priceTier": "€€",
+    "chef": "mokum Kitchen Team",
+    "hours": "Tue–Sat 18:00–23:00 · Closed Sun–Mon",
+    "review": "Inspired by Amsterdam's vibrant bistronomy culture, mokum brings inventive, vegetable-forward sharing plates and lively flavors to Schwanthalerhöhe at Bib Gourmand value. Relaxed energy, bold sauces, and low-intervention wines make it a standout casual-fine address.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/mokum",
+    "websiteUrl": "https://www.mokum-munich.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/86aad34ee8ee4d8f93c950c9eaa510b5.jpeg?w=1000&format=webp",
+        "caption": "Creative Bistronomy · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "acetaia",
+    "city": "munich",
+    "name": "Acetaia",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Nymphenburger Straße 215, 80639 München",
+    "neighborhood": "Neuhausen-Nymphenburg",
+    "lat": 48.158002,
+    "lng": 11.527184,
+    "cuisine": "Italian",
+    "priceTier": "€€€",
+    "chef": "Acetaia Kitchen Team",
+    "hours": "Mon–Tue, Thu–Fri & Sun 12:00–14:30 & 18:30–22:00 · Sat 18:30–22:00 · Closed Wed",
+    "review": "A long-standing Nymphenburg favorite housed in an inviting villa with a leafy garden terrace, prized for authentic northern Italian cooking and artisanal aged balsamic vinegars. Handmade pastas, fresh Mediterranean seafood, and a deep Italian cellar deliver timeless elegance.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/acetaia",
+    "websiteUrl": "https://www.restaurant-acetaia.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/cbb568516226464ba27d69dae29a2f87.jpeg?w=1000&format=webp",
+        "caption": "Italian Dining · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "aimy-munich",
+    "city": "munich",
+    "name": "AIMY",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Brienner Straße 10, 80333 München",
+    "neighborhood": "Altstadt · Wittelsbacherplatz",
+    "lat": 48.143228,
+    "lng": 11.57499,
+    "cuisine": "Thai",
+    "priceTier": "€€€",
+    "chef": "AIMY Kitchen Team",
+    "hours": "Mon–Fri 11:30–15:00 & 18:00–23:00 · Sat 18:00–23:00 · Closed Sun",
+    "review": "Located near Wittelsbacherplatz in a sleek, dimly lit room, AIMY serves upscale Thai and Southeast Asian cuisine built on vibrant herbs, aromatic curries, and crisp wok technique. Polished service and creative cocktails suit both lively dinners and refined business lunches.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/aimy",
+    "websiteUrl": "https://aimy-restaurant.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/beef425c2035450583e3eb84404ae417.jpg?w=1000&format=webp",
+        "caption": "Southeast Asian Cuisine · Michelin Guide"
+      },
+      {
+        "url": "https://aimy-restaurant.de/wp-content/uploads/2022/02/aimy-bild-1.png",
+        "caption": "Dining & Atmosphere · Altstadt · Wittelsbacherplatz"
+      },
+      {
+        "url": "https://aimy-restaurant.de/wp-content/uploads/2024/09/walpaper.jpg",
+        "caption": "Culinary Highlight · AIMY"
+      }
+    ]
+  },
+  {
+    "id": "asam-schlossl",
+    "city": "munich",
+    "name": "Asam Schlössl",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Maria-Einsiedel-Straße 45, 81379 München",
+    "neighborhood": "Thalkirchen",
+    "lat": 48.095276,
+    "lng": 11.542502,
+    "cuisine": "Bavarian",
+    "priceTier": "€€€",
+    "chef": "Shane McMahon",
+    "hours": "Wed–Sun 12:00–22:00 · Closed Mon–Tue",
+    "review": "Set inside an enchanting 17th-century baroque chateau painted by Cosmas Damian Asam, this historic southern Munich landmark blends elevated Bavarian classics with polished culinary finesse. Dine beneath frescoed ceilings or out in the serene chestnut-shaded beer garden.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/asam-schlossl",
+    "websiteUrl": "https://www.asamschloessl.de/en/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/c8ec95eb601c4cbf8ce01a9e51990e1a.jpeg?w=1000&format=webp",
+        "caption": "Historic Baroque Dining · Michelin Guide"
+      },
+      {
+        "url": "https://www.asamschloessl.de/fileadmin/user_files/01-Startseite/Asam-Schloessl_vorne-header.jpg",
+        "caption": "Dining & Atmosphere · Thalkirchen"
+      },
+      {
+        "url": "https://www.asamschloessl.de/fileadmin/user_files/01-Startseite/Asam-Schloessl-Restaurant_01.jpg",
+        "caption": "Dining Room · Asam Schlössl"
+      }
+    ]
+  },
+  {
+    "id": "atelier-gourmet",
+    "city": "munich",
+    "name": "Atelier Gourmet",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Rablstraße 37, 81667 München",
+    "neighborhood": "Haidhausen",
+    "lat": 48.127321,
+    "lng": 11.592926,
+    "cuisine": "Classic French",
+    "priceTier": "€€€",
+    "chef": "Christian & Kitchen Team",
+    "hours": "Mon–Sat 18:00–23:00 · Closed Sun",
+    "review": "An intimate, owner-run Haidhausen institution since 2005 with around thirty seats and authentic French bistro-gastronomie flair. Seasonal chalkboards showcase classic French technique, rich jus, and a lovingly curated cellar of French growers.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/atelier-gourmet",
+    "websiteUrl": "https://www.ateliergourmet.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/90c98e986b3646fd93fdb6ad147d5198.jpeg?w=1000&format=webp",
+        "caption": "Classic French Cuisine · Michelin Guide"
+      },
+      {
+        "url": "https://www.ateliergourmet.de/images/og-karte.jpg",
+        "caption": "Dining & Atmosphere · Haidhausen"
+      },
+      {
+        "url": "https://www.ateliergourmet.de/images/soiree-wein.webp",
+        "caption": "Culinary Highlight · Atelier Gourmet"
+      }
+    ]
+  },
+  {
+    "id": "atlantik-munich",
+    "city": "munich",
+    "name": "Atlantik",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Zenettistraße 12, 80337 München",
+    "neighborhood": "Isarvorstadt · Dreimühlenviertel",
+    "lat": 48.123907,
+    "lng": 11.55747,
+    "cuisine": "Fish and Seafood",
+    "priceTier": "€€€€",
+    "chef": "Atlantik Kitchen Team",
+    "hours": "Tue–Sat 18:00–23:00 · Closed Sun–Mon",
+    "review": "One of Munich's premier seafood destinations, celebrating pristine Atlantic fish, shellfish, and crustaceans in an understated, maritime-elegant setting. From glistening raw platters to whole roasted wild fish, product freshness takes undisputed center stage.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/atlantik",
+    "websiteUrl": "https://www.atlantik-muenchen.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/a872f14ea626402094e8c273865f6c70.jpg?w=1000&format=webp",
+        "caption": "Atlantic Seafood · Michelin Guide"
+      },
+      {
+        "url": "https://www.atlantik-muenchen.de/wp-content/uploads/2021/12/restaurant-atlantik-fisch_dsc00577_annette-sandner-2.jpg",
+        "caption": "Dining & Atmosphere · Isarvorstadt · Dreimühlenviertel"
+      }
+    ]
+  },
+  {
+    "id": "bar-tatar-schreiberei",
+    "city": "munich",
+    "name": "BAR TATAR in der Schreiberei",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Burgstraße 5, 80331 München",
+    "neighborhood": "Altstadt",
+    "lat": 48.137524,
+    "lng": 11.57718,
+    "cuisine": "International",
+    "priceTier": "€€€",
+    "chef": "Tohru Nakamura & Team",
+    "hours": "Tue–Sat 17:30–24:00 · Closed Sun–Mon",
+    "review": "Occupying the atmospheric vaulted ground floor beneath three-star Tohru, BAR TATAR offers a lively, casual-chic counterpoint centered on creative raw tartares, international sharing plates, and sharp cocktails in Munich's historic Old Town.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/schreiberei",
+    "websiteUrl": "https://schreiberei-muc.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/0df63223da104e4ba254e370164388d3.jpeg?w=1000&format=webp",
+        "caption": "Tartares & Plates · Michelin Guide"
+      },
+      {
+        "url": "https://schreiberei-muc.de/images/og-schreiberei.jpg",
+        "caption": "Dining & Atmosphere · Altstadt"
+      }
+    ]
+  },
+  {
+    "id": "bavarie",
+    "city": "munich",
+    "name": "Bavarie",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Am Olympiapark 1, 80809 München",
+    "neighborhood": "Olympiapark · BMW Welt",
+    "lat": 48.177138,
+    "lng": 11.556166,
+    "cuisine": "Farm to table",
+    "priceTier": "€€",
+    "chef": "Bavarie Kitchen Team",
+    "hours": "Tue–Sat 11:30–16:00 & 18:00–22:30 · Closed Sun–Mon",
+    "review": "Set in the striking glass architecture of BMW Welt, Käfer's modern Bavarian brasserie unites French brasserie lightness with regional Bavarian farm-to-table produce. Bright, welcoming, and stylishly contemporary for both lunch and dinner.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/bavarie",
+    "websiteUrl": "https://www.bmw-welt.com/en/restaurants/bavarie.html",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/fa20139ada0945fca7ab5515b307f036.jpeg?w=1000&format=webp",
+        "caption": "Modern Bavarian Brasserie · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "blauer-bock",
+    "city": "munich",
+    "name": "Blauer Bock",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Sebastiansplatz 9, 80331 München",
+    "neighborhood": "Altstadt · Viktualienmarkt",
+    "lat": 48.134321,
+    "lng": 11.573762,
+    "cuisine": "Bavarian · Regional Cuisine",
+    "priceTier": "€€€",
+    "chef": "Blauer Bock Kitchen Team",
+    "hours": "Tue–Sat 18:00–23:00 · Closed Sun–Mon",
+    "review": "Tucked on quiet Sebastiansplatz just behind Viktualienmarkt, Blauer Bock elevates traditional Bavarian-Alpine cooking inside a handsome, wood-paneled dining room. Seasonal regional dishes pair seamlessly with German and Austrian fine wines.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/blauer-bock",
+    "websiteUrl": "https://www.restaurant-blauerbock.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/81b3c7a3c6494771a632b572952fe139.jpeg?w=1000&format=webp",
+        "caption": "Elevated Bavarian Cuisine · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "colette-tim-raue-munich",
+    "city": "munich",
+    "name": "Brasserie Colette Tim Raue",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Klenzestraße 72, 80469 München",
+    "neighborhood": "Glockenbachviertel",
+    "lat": 48.126819,
+    "lng": 11.569862,
+    "cuisine": "French",
+    "priceTier": "€€€",
+    "chef": "Tim Raue Concept",
+    "hours": "Mon–Sun 18:00–23:00",
+    "review": "Tim Raue's lively Munich brasserie in Glockenbachviertel celebrates French classics kissed with subtle modern acidity and spice. Expect crisp duck, velvety bouillabaisse, and a buzzy Parisian brass-and-leather dining room.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/colette-tim-raue488960",
+    "websiteUrl": "https://brasseriecolette.de/en/munich",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/4b90f9450a914913a2481755fb2f798c.jpg?w=1000&format=webp",
+        "caption": "French Brasserie · Michelin Guide"
+      },
+      {
+        "url": "https://images.prismic.io/brasseriecolettev3/aPEBop5xUNkB2D8J_Rinderfilet_90946_web.jpg?ar=2%3A1&fit=crop&auto=format&q=35&w=1280",
+        "caption": "Dining & Atmosphere · Glockenbachviertel"
+      },
+      {
+        "url": "https://images.prismic.io/brasseriecolettev3/Zsc5KkaF0TcGJQAw_IMG_1021.JPG?ar=2%3A1&fit=crop&auto=format&q=35&w=1280",
+        "caption": "Culinary Highlight · Brasserie Colette Tim Raue"
+      }
+    ]
+  },
+  {
+    "id": "brasserie-cuvillies",
+    "city": "munich",
+    "name": "Brasserie Cuvilliés",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Kardinal-Faulhaber-Straße 1, 80333 München",
+    "neighborhood": "Altstadt",
+    "lat": 48.141159,
+    "lng": 11.57471,
+    "cuisine": "Alpine",
+    "priceTier": "€€€",
+    "chef": "Caspar Bork",
+    "hours": "Mon–Sun 07:00–10:30, 12:00–14:30 & 18:00–22:30",
+    "review": "The grand dining room of the luxury Rosewood Munich hotel blends stately heritage architecture with refined Alpine-Bavarian brasserie cooking. Polished classics, regional lake fish, and Viennese-inspired patisserie shine in glamorous Old Town surroundings.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/brasserie-cuvillies",
+    "websiteUrl": "https://www.rosewoodhotels.com/en/munich/dining/brasserie-cuvillies",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/810a5fdaef2644cf8cf579f49acb9736.jpg?w=1000&format=webp",
+        "caption": "Rosewood Alpine Brasserie · Michelin Guide"
+      },
+      {
+        "url": "https://picasso.rosewoodhotelgroup.com/transform/0fbc716a-692f-45d8-91f1-acc437ced91a/RWMUN_Festive_David-Kossi",
+        "caption": "Dining & Atmosphere · Altstadt"
+      },
+      {
+        "url": "https://picasso.rosewoodhotelgroup.com/transform/c3b6ffac-d693-41c6-a2a3-b6da9e6582e5/RWMUN_Global_3-0_Brand-com_Assets_Facilities_Front-of-House_Entrance_Stairs",
+        "caption": "Culinary Highlight · Brasserie Cuvilliés"
+      }
+    ]
+  },
+  {
+    "id": "brasserie-les-deux",
+    "city": "munich",
+    "name": "Brasserie Les Deux",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Maffeistraße 3a, 80333 München",
+    "neighborhood": "Altstadt · Schäfflerhof",
+    "lat": 48.139229,
+    "lng": 11.574432,
+    "cuisine": "International",
+    "priceTier": "€€€",
+    "chef": "Fabrice Kieffer & Team",
+    "hours": "Mon–Sat 11:30–23:30 · Closed Sun",
+    "review": "The animated ground-floor counterpart to one-star Les Deux brings unmistakable Parisian brasserie verve to the Schäfflerhof passage. Oysters, steak tartare, and French-international daily specials pair with a superb by-the-glass wine list.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/brasserie-les-deux",
+    "websiteUrl": "https://lesdeux-muc.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/49ae296d75b64d009f5fef9dc108363a.jpg?w=1000&format=webp",
+        "caption": "Parisian Brasserie · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "broeding",
+    "city": "munich",
+    "name": "Broeding",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Schulstraße 9, 80634 München",
+    "neighborhood": "Neuhausen",
+    "lat": 48.15093,
+    "lng": 11.534411,
+    "cuisine": "Classic Cuisine",
+    "priceTier": "€€€",
+    "chef": "Manuel Reheis",
+    "hours": "Tue–Sat 18:30–23:30 · Closed Sun–Mon",
+    "review": "A cherished Neuhausen dining institution famed for its daily changing, market-driven six-course surprise menu and encyclopedic Austrian wine cellar. Warm hospitality and confident, product-led classic cooking have earned it a fiercely loyal Munich following.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/broeding",
+    "websiteUrl": "https://www.broeding.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/da4f48d02ff34af19e94193f1c066227.jpeg?w=1000&format=webp",
+        "caption": "Daily Set Menu · Michelin Guide"
+      },
+      {
+        "url": "https://www.broeding.de/assets/images/x/Broeding%20-%20Food_2508_broeding0012_-%C2%AE%20Annette%20Sandner%202-m5e4mf1ej3qxzzs.jpg",
+        "caption": "Dining & Atmosphere · Neuhausen"
+      }
+    ]
+  },
+  {
+    "id": "buffet-kull-bar",
+    "city": "munich",
+    "name": "buffet Kull bar",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Marienstraße 4, 80331 München",
+    "neighborhood": "Altstadt",
+    "lat": 48.136486,
+    "lng": 11.580704,
+    "cuisine": "International",
+    "priceTier": "€€€",
+    "chef": "buffet Kull Kitchen Team",
+    "hours": "Tue–Sat 18:00–01:00 · Closed Sun–Mon",
+    "review": "An enduring Old Town classic blending bustling French-international bistro dining with an iconic late-night bar crowd. Polished classics like entrecôte, seafood, and crisp salads keep the candlelit tables packed well into the evening.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/buffet-kull-bar",
+    "websiteUrl": "https://www.buffet-kull.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/73ba214c587e4dd896899147ed9bcfb5.jpeg?w=1000&format=webp",
+        "caption": "Bistro & Bar · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "chang-bistro",
+    "city": "munich",
+    "name": "Chang Bistro",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Wolfratshauser Straße 268, 81479 München",
+    "neighborhood": "Solln",
+    "lat": 48.071796,
+    "lng": 11.518951,
+    "cuisine": "Asian",
+    "priceTier": "€€",
+    "chef": "Chang Bistro Kitchen Team",
+    "hours": "Tue–Sun 12:00–14:30 & 17:30–22:30 · Closed Mon",
+    "review": "A refined neighborhood gem in leafy Solln specializing in bright, freshly prepared Thai and Asian bistro dishes. Fragrant curries, crisp starters, and balanced aromatics stand out well above everyday takeout fare.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/chang-bistro",
+    "websiteUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/chang-bistro",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/7c67e0d2c6274884899d034334143e9e.jpg?w=1000&format=webp",
+        "caption": "Asian Bistro · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "dallmayr-bar-grill",
+    "city": "munich",
+    "name": "Dallmayr Bar & Grill",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Dienerstraße 14-15, 80331 München",
+    "neighborhood": "Altstadt",
+    "lat": 48.138239,
+    "lng": 11.577064,
+    "cuisine": "Farm to table",
+    "priceTier": "€€€",
+    "chef": "Dallmayr Kitchen Team",
+    "hours": "Mon–Sat 11:30–22:00 · Closed Sun",
+    "review": "Tucked inside Munich's celebrated Dallmayr delicatessen, this sleek counter-and-grill spot showcases top-drawer oysters, market seafood, and wood-grilled meats drawn straight from the house's legendary gourmet counters.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/dallmayr-bar-grill",
+    "websiteUrl": "https://www.dallmayr.com/deen/delicatessen/bar-grill/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/2a6b155036d14196a237938d4151226a.png?w=1000&format=webp",
+        "caption": "Bar & Grill · Michelin Guide"
+      },
+      {
+        "url": "https://www.dallmayr.com/fileadmin/_processed_/1/e/csm_hero_3ddbd836dd.webp",
+        "caption": "Culinary Highlight · Dallmayr Bar & Grill"
+      }
+    ]
+  },
+  {
+    "id": "das-fogosch",
+    "city": "munich",
+    "name": "Das Fogosch",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Amalienstraße 81, 80799 München",
+    "neighborhood": "Maxvorstadt",
+    "lat": 48.151115,
+    "lng": 11.578842,
+    "cuisine": "Fish and Seafood",
+    "priceTier": "€€€",
+    "chef": "Jürgen Wolfsgruber & Team",
+    "hours": "Wed 17:00–23:00 · Thu–Fri 12:00–15:00 & 17:00–23:00 · Sat 12:00–23:00 · Closed Sun–Tue",
+    "review": "From the patron of one-star Sparkling Bistro just doors away, Das Fogosch is a lively Maxvorstadt seafood bar celebrating pristine catch-of-the-day fish, crudo, and Alpine-freshwater delicacies alongside crisp white wines and Champagne.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/das-fogosch",
+    "websiteUrl": "https://www.dasfogosch.com/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/5495510fcdc84012bb51c408b8f616ff.jpg?w=1000&format=webp",
+        "caption": "Seafood & Crudo · Michelin Guide"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/68ff60be74ff2524c4315512/1e3f5e1b-7788-4a6b-9dc8-902188320231/Das+Fogosch+2606_DSC01141_%C2%A9+Annette+Sandner+1.jpg",
+        "caption": "Fresh Fish & Seafood · Maxvorstadt"
+      }
+    ]
+  },
+  {
+    "id": "das-obers",
+    "city": "munich",
+    "name": "Das Obers",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Gerner Straße 48, 80638 München",
+    "neighborhood": "Neuhausen · Gern",
+    "lat": 48.161377,
+    "lng": 11.524126,
+    "cuisine": "South Tyrolean",
+    "priceTier": "€€",
+    "chef": "Lukas Gietl",
+    "hours": "Wed–Fri 12:00–15:00 & 17:00–22:00 · Sat 12:00–22:00 · Closed Sun–Tue",
+    "review": "Chef Lukas Gietl brings the sunny flavors of South Tyrol and modern Alpine cooking to this charming, wood-warmed Gern dining room. Handmade Schlutzkrapfen, seasonal mountain produce, and fine Alto Adige wines create an inviting neighborhood escape.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/das-obers",
+    "websiteUrl": "https://www.dasobers.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/4c962a4e9a7c413ab6c8bf5f1be3b78e.jpg?w=1000&format=webp",
+        "caption": "South Tyrolean Cuisine · Michelin Guide"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/6791320c19f6f771f6059493/1edfad2a-246b-43a3-a033-9da024c18cc4/Das+Obers+02+2026_DSC04292_%C2%A9+Annette+Sandner+1.jpg",
+        "caption": "Dining & Atmosphere · Neuhausen · Gern"
+      }
+    ]
+  },
+  {
+    "id": "das-tschecherl",
+    "city": "munich",
+    "name": "Das Tschecherl",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Amalienstraße 89, 80799 München",
+    "neighborhood": "Maxvorstadt",
+    "lat": 48.151819,
+    "lng": 11.577817,
+    "cuisine": "Austrian",
+    "priceTier": "€€",
+    "chef": "Nico Sator",
+    "hours": "Tue–Fri 12:00–22:00 · Closed Sat–Mon",
+    "review": "Inspired by convivial Viennese Beisl and wine-tavern culture inside the Amalienpassage, Das Tschecherl serves refined Austrian bistro favorites—goulash, crisp schnitzel, and seasonal specials—paired with stellar Austrian wines.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/das-tschecherl",
+    "websiteUrl": "https://www.dastschecherl.com/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/5c338e0a942e418cb3282e27a40dc25a.jpg?w=1000&format=webp",
+        "caption": "Austrian Beisl · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "der-dantler",
+    "city": "munich",
+    "name": "Der Dantler",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Werinherstraße 15, 81541 München",
+    "neighborhood": "Obergiesing",
+    "lat": 48.115416,
+    "lng": 11.582738,
+    "cuisine": "Modern Cuisine · Country cooking",
+    "priceTier": "€€€",
+    "chef": "Der Dantler Kitchen Team",
+    "hours": "Tue–Thu 12:00–14:00 & 18:00–23:00 · Fri 12:00–14:00 & 18:00–24:00 · Closed Sat–Mon",
+    "review": "A warmly stylish Obergiesing corner spot reimagining rustic Bavarian tavern traditions with refined modern technique and seasonal market ingredients. Lively evening energy, generous flavors, and a smart European wine list make it a local favorite.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/der-dantler",
+    "websiteUrl": "https://derdantler.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/58d219c199c7479f949a8a855a15a291.jpeg?w=1000&format=webp",
+        "caption": "Modern Country Cooking · Michelin Guide"
+      },
+      {
+        "url": "https://derdantler.de/wp-content/uploads/2022/09/rockastudio715325-687x1030.jpg",
+        "caption": "Dining & Atmosphere · Obergiesing"
+      },
+      {
+        "url": "https://derdantler.de/wp-content/uploads/2022/09/rockastudio6628104-687x1030.jpg",
+        "caption": "Culinary Highlight · Der Dantler"
+      }
+    ]
+  },
+  {
+    "id": "elsa-munich",
+    "city": "munich",
+    "name": "ELSA",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Bräuhausstraße 8, 80331 München",
+    "neighborhood": "Altstadt",
+    "lat": 48.137087,
+    "lng": 11.58035,
+    "cuisine": "Contemporary",
+    "priceTier": "€€",
+    "chef": "ELSA Kitchen Team",
+    "hours": "Tue–Sat 11:30–14:30 & 18:00–24:00 · Closed Sun–Mon",
+    "review": "A vibrant contemporary Old Town dining room and bar celebrating German comfort cooking with fresh, chef-driven flair. Expect nostalgic flavors sharpened by modern execution, bright sauces, and a welcoming neighborhood buzz.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/elsa-1253882",
+    "websiteUrl": "https://restaurant-elsa.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/9d318e9bff794059abc197863f7c7d3c.jpg?w=1000&format=webp",
+        "caption": "Contemporary German · Michelin Guide"
+      },
+      {
+        "url": "https://restaurant-elsa.de/wp-content/uploads/2025/09/Makrele_Restaurant_Elsa_Muenchen.jpg",
+        "caption": "Seasonal Dish · ELSA"
+      }
+    ]
+  },
+  {
+    "id": "freisinger-hof",
+    "city": "munich",
+    "name": "Freisinger Hof",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Oberföhringer Straße 189-191, 81925 München",
+    "neighborhood": "Bogenhausen · Oberföhring",
+    "lat": 48.157964,
+    "lng": 11.615622,
+    "cuisine": "Traditional Cuisine",
+    "priceTier": "€€€",
+    "chef": "Freisinger Hof Kitchen Team",
+    "hours": "Mon–Sun 12:00–14:00 & 18:00–22:00",
+    "review": "Set on the leafy edge of the Englischer Garten and Isar banks, this traditional family-run hotel restaurant pairs Bavarian-Austrian culinary classics with crisp seasonal refinement and a picturesque summer garden terrace.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/freisinger-hof",
+    "websiteUrl": "https://www.freisinger-hof.de/en/restaurant",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/362f2695db6c4600a7023daded06b5b9.jpeg?w=1000&format=webp",
+        "caption": "Traditional Bavarian Dining · Michelin Guide"
+      },
+      {
+        "url": "https://www.freisinger-hof.de/static_processed/da8e86ee2fb67b044ce288e953e93fb5/freisinger-hof-or-restaurant-or-cuisine-or-dishes-or-14.jpg?{\"image\":\"https://api.freisinger-hof.de/fileadmin/content/images/restaurant/kulinarik/speisen/freisinger-hof-restaurant-speisen-fingerfood-02.jpg\",\"edits\":{\"extract\":{\"top\":0,\"left\":0,\"width\":2670,\"height\":2000},\"resize\":{\"width\":550,\"fit\":\"cover\",\"height\":413}}}",
+        "caption": "Dining & Atmosphere · Bogenhausen · Oberföhring"
+      },
+      {
+        "url": "https://www.freisinger-hof.de/static_processed/197e43d75c3242e83ad47d42ec91116e/freisinger-hof-or-restaurant-or-interior-or-03.jpg?{\"image\":\"https://api.freisinger-hof.de/fileadmin/content/images/restaurant/innenraum/freisinger-hof-restaurant-innenraum-runder-tisch-am-ofen.jpg\",\"edits\":{\"resize\":{\"width\":550,\"fit\":\"cover\",\"height\":413}}}",
+        "caption": "Culinary Highlight · Freisinger Hof"
+      }
+    ]
+  },
+  {
+    "id": "galleria-munich",
+    "city": "munich",
+    "name": "Galleria",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Sparkassenstraße 11, 80331 München",
+    "neighborhood": "Altstadt",
+    "lat": 48.137307,
+    "lng": 11.578021,
+    "cuisine": "Italian · Mediterranean Cuisine",
+    "priceTier": "€€€",
+    "chef": "Galleria Kitchen Team",
+    "hours": "Mon–Sat 12:00–14:30 & 18:30–23:00 · Closed Sun",
+    "review": "A refined, classic Old Town Italian dining room just off Marienplatz known for white-tablecloth hospitality, fresh Mediterranean fish, and seasonal truffle and pasta specialties prepared with understated elegance.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/galleria",
+    "websiteUrl": "https://ristorante-galleria.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/a5bf1b71e0fd4a1d98243c7db2476e74.jpeg?w=1000&format=webp",
+        "caption": "Italian Classics · Michelin Guide"
+      },
+      {
+        "url": "https://ristorante-galleria.de/wp-content/uploads/2022/02/220301_MS_L4_2.jpg",
+        "caption": "Interior & Ambience · Galleria"
+      }
+    ]
+  },
+  {
+    "id": "garden-restaurant",
+    "city": "munich",
+    "name": "Garden-Restaurant",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Promenadeplatz 2-6, 80333 München",
+    "neighborhood": "Altstadt",
+    "lat": 48.140475,
+    "lng": 11.572489,
+    "cuisine": "Contemporary",
+    "priceTier": "€€€",
+    "chef": "Hotel Bayerischer Hof Team",
+    "hours": "Mon–Sun 12:00–14:30 & 18:00–22:30",
+    "review": "Exceptionally chic and luminous inside Hotel Bayerischer Hof, the Axel Vervoordt-designed Garden-Restaurant pairs classic hotel-dining favorites with light contemporary European dishes, white-glove service, and courtyard terrace seating.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/garden-restaurant",
+    "websiteUrl": "https://www.bayerischerhof.de/de/erleben-geniessen/restaurants-bars/restaurants/garden.html",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/ea4e3e48194f47a6a5ea9bea295681d6.jpeg?w=1000&format=webp",
+        "caption": "Grand Hotel Dining · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "greta-oto-munich",
+    "city": "munich",
+    "name": "GRETA OTO Munich",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Karlsplatz 25, 80335 München",
+    "neighborhood": "Altstadt · Stachus",
+    "lat": 48.13973,
+    "lng": 11.564747,
+    "cuisine": "Latin American",
+    "priceTier": "€€€",
+    "chef": "GRETA OTO Kitchen Team",
+    "hours": "Mon–Sun 12:00–14:30 & 18:00–23:00",
+    "review": "Perched inside the luxury Koenigshof hotel overlooking Karlsplatz, GRETA OTO brings glamorous Latin American dining to Munich. Expect bright Peruvian ceviches, open-fire grilled meats, dramatic design, and panoramic terrace cocktails.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/greta-oto-im-konigshof",
+    "websiteUrl": "https://gretaoto-restaurants.com/munich/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/7419130356c743f5b89fc60e348c8d54.jpeg?w=1000&format=webp",
+        "caption": "Latin American Dining · Michelin Guide"
+      },
+      {
+        "url": "https://gretaoto-restaurants.com/wp-content/uploads/elementor/thumbs/GRETA-OTO-Tischbild-1-scaled-qpn8f0rwfyamgq1yairqp4c2c8nm8qedopnhyg4580.jpg",
+        "caption": "Culinary Highlight · GRETA OTO Munich"
+      },
+      {
+        "url": "https://gretaoto-restaurants.com/wp-content/uploads/elementor/thumbs/image00037-scaled-r94hr97jl93x9wiyd965ngzenq94q9ddumgz31i2r4.jpeg",
+        "caption": "Interior & Ambience · GRETA OTO Munich"
+      }
+    ]
+  },
+  {
+    "id": "hippocampus",
+    "city": "munich",
+    "name": "Hippocampus",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Mühlbaurstraße 5, 81677 München",
+    "neighborhood": "Bogenhausen",
+    "lat": 48.140586,
+    "lng": 11.608282,
+    "cuisine": "Italian",
+    "priceTier": "€€€",
+    "chef": "Gianfranco Artiaco & Team",
+    "hours": "Wed–Sun 12:00–14:00 & 18:30–21:30 · Closed Mon–Tue",
+    "review": "A beloved Bogenhausen Italian institution blending charismatic hospitality with refined, creative Italian gastronomy. Fresh coastal seafood, artisanal pastas, and thoughtfully selected Italian vintages shine in a sleek, welcoming room.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/hippocampus",
+    "websiteUrl": "https://www.hippocampus-restaurant.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/0cbbd3a187cb450a8c33e8e3959fb6c6.jpeg?w=1000&format=webp",
+        "caption": "Creative Italian · Michelin Guide"
+      },
+      {
+        "url": "https://www.hippocampus-restaurant.de/wp-content/uploads/2026/10/2610_Hippocampus_Bilder-54.jpg",
+        "caption": "Culinary Highlight · Hippocampus"
+      }
+    ]
+  },
+  {
+    "id": "il-borgo",
+    "city": "munich",
+    "name": "Il Borgo",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Georgenstraße 144, 80797 München",
+    "neighborhood": "Schwabing",
+    "lat": 48.157536,
+    "lng": 11.561044,
+    "cuisine": "Italian",
+    "priceTier": "€€€",
+    "chef": "Il Borgo Kitchen Team",
+    "hours": "Tue–Sat 18:00–23:00 · Closed Sun–Mon",
+    "review": "An elegant, intimate Schwabing Italian restaurant known for seasonal daily specials, delicate homemade pastas, and pristine Mediterranean fish served in a warm, contemporary dining room with standout Italian wines.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/il-borgo",
+    "websiteUrl": "https://www.il-borgo.de/en",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/58b4991c4ef347f095b209cb9de55ad9.jpg?w=1000&format=webp",
+        "caption": "Italian Fine Dining · Michelin Guide"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/65a0180ebd31674fc1735fa7/t/67803c27a3596c36e5e6e77b/1705038753897/CIMG2026.JPG?format=1500w",
+        "caption": "Dining & Atmosphere · Schwabing"
+      }
+    ]
+  },
+  {
+    "id": "jin-munich",
+    "city": "munich",
+    "name": "Jin",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Kanalstraße 14, 80538 München",
+    "neighborhood": "Lehel",
+    "lat": 48.135816,
+    "lng": 11.584277,
+    "cuisine": "Asian · Chinese",
+    "priceTier": "€€€",
+    "chef": "Hao Jin",
+    "hours": "Tue–Fri 18:00–23:00 · Sat–Sun 12:00–14:30 & 18:00–23:00 · Closed Mon",
+    "review": "In a serene, minimalist Lehel room, chef Hao Jin delivers some of Munich's most refined southern Chinese and contemporary Asian cooking. Delicate handmade dim sum, aromatic broths, and precision-cooked fish highlight pristine ingredients.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/jin254149",
+    "websiteUrl": "https://restaurant-jin.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/544fb53e8adc44ab8a63b2c28f0fb464.jpeg?w=1000&format=webp",
+        "caption": "Refined Chinese Cuisine · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "kafer-schanke",
+    "city": "munich",
+    "name": "Käfer-Schänke",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Prinzregentenstraße 73, 81675 München",
+    "neighborhood": "Bogenhausen",
+    "lat": 48.140512,
+    "lng": 11.601935,
+    "cuisine": "Seasonal Cuisine",
+    "priceTier": "€€€",
+    "chef": "Käfer-Schänke Kitchen Team",
+    "hours": "Mon–Sat 12:00–23:00 · Closed Sun",
+    "review": "Above Munich's famous Feinkost Käfer emporium, this legendary wood-paneled institution spans nineteen charming Stuben and draws locals and celebrities alike for decadent seasonal classics, roasted duck, and celebratory hospitality.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/kafer-schanke",
+    "websiteUrl": "https://www.feinkost-kaefer.de/pages/kaefer-schaenke",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/b0b3ed5cfcd142069dc952fb28ec0c94.jpg?w=1000&format=webp",
+        "caption": "Munich Institution · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "koi-munich",
+    "city": "munich",
+    "name": "KOI",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Wittelsbacherplatz 1, 80333 München",
+    "neighborhood": "Altstadt · Wittelsbacherplatz",
+    "lat": 48.143369,
+    "lng": 11.57552,
+    "cuisine": "Japanese Contemporary · Fusion",
+    "priceTier": "€€€",
+    "chef": "KOI Kitchen Team",
+    "hours": "Mon–Sat 12:00–15:00 & 18:00–23:00 · Closed Sun",
+    "review": "Right on handsome Wittelsbacherplatz, KOI marries chic contemporary design with Japanese fusion plates, crisp sushi and sashimi, robata specialties, and creative cocktails in an energetic city-center setting.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/koi-423179",
+    "websiteUrl": "https://www.koi-restaurant.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/292bbb3e65314318a069a53936c7db84.jpeg?w=1000&format=webp",
+        "caption": "Japanese Contemporary · Michelin Guide"
+      },
+      {
+        "url": "https://www.koi-restaurant.de/wp-content/uploads/koi-restaurant-galerie-allgemein-05.jpg",
+        "caption": "Dining & Atmosphere · Altstadt · Wittelsbacherplatz"
+      },
+      {
+        "url": "https://www.koi-restaurant.de/wp-content/uploads/koi-restaurant-galerie-allgemein-07.jpg",
+        "caption": "Culinary Highlight · KOI"
+      }
+    ]
+  },
+  {
+    "id": "la-boheme-munich",
+    "city": "munich",
+    "name": "La Bohème",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Leopoldstraße 180, 80804 München",
+    "neighborhood": "Schwabing",
+    "lat": 48.173132,
+    "lng": 11.586769,
+    "cuisine": "Meats and Grills · Seasonal Cuisine",
+    "priceTier": "€€€",
+    "chef": "Michael Urban",
+    "hours": "Tue–Sat 18:00–24:00 · Closed Sun–Mon",
+    "review": "A buzzy, art-filled Schwabing steakhouse and brasserie serving prime dry-aged cuts from around the world alongside crisp French-inspired starters, inventive side dishes, and charismatic service.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/la-boheme502762",
+    "websiteUrl": "https://www.boheme-schwabing.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/2d3aa903a39145f7a7fc70e3b9206893.jpeg?w=1000&format=webp",
+        "caption": "Prime Steaks & Grill · Michelin Guide"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/63b53c75b306086d1ae91244/7e1e97ee-75e1-49e1-b13c-ff6982c52124/steakhaus-muenchen-restaurant-separee",
+        "caption": "Dining & Atmosphere · Schwabing"
+      },
+      {
+        "url": "https://images.squarespace-cdn.com/content/v1/63b53c75b306086d1ae91244/f661a78a-5a85-4c61-9f5e-44f767b72d0c/484785097_1103102205163653_5412612246269850193_n.jpg",
+        "caption": "Culinary Highlight · La Bohème"
+      }
+    ]
+  },
+  {
+    "id": "landersdorfer-innerhofer",
+    "city": "munich",
+    "name": "Landersdorfer & Innerhofer",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Hackenstraße 6, 80331 München",
+    "neighborhood": "Altstadt",
+    "lat": 48.136221,
+    "lng": 11.569942,
+    "cuisine": "Classic Cuisine",
+    "priceTier": "€€€€",
+    "chef": "Johann Landersdorfer",
+    "hours": "Mon–Fri 11:30–13:30 & 18:30–21:30 · Closed Sat–Sun",
+    "review": "Tucked in a quiet Old Town courtyard, this long-beloved weekday culinary sanctuary serves an ever-changing seasonal set menu rooted in supreme classical craftsmanship, deeply flavored sauces, and warm, personal service.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/landersdorfer-innerhofer",
+    "websiteUrl": "https://www.landersdorferundinnerhofer.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/180e678c447f44e1ba21a1d096885be9.jpeg?w=1000&format=webp",
+        "caption": "Classic Seasonal Menu · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "le-stollberg",
+    "city": "munich",
+    "name": "Le Stollberg",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Stollbergstraße 2, 80539 München",
+    "neighborhood": "Altstadt-Lehel",
+    "lat": 48.136172,
+    "lng": 11.582842,
+    "cuisine": "Classic Cuisine · Mediterranean Cuisine",
+    "priceTier": "€€",
+    "chef": "Le Stollberg Kitchen Team",
+    "hours": "Wed–Fri 11:30–14:30 & 18:00–23:00 · Sat 16:30–23:00 · Closed Sun–Tue",
+    "review": "An understated, stylish Altstadt-Lehel neighborhood favorite offering French-Mediterranean bistro dishes prepared with remarkable clarity and care. A relaxed wine-bar spirit and approachable pricing make it a perennial insider tip.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/le-stollberg",
+    "websiteUrl": "https://www.lestollberg.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/3fbb6415087440ffb0fcd7c83869e92a.jpeg?w=1000&format=webp",
+        "caption": "Mediterranean Bistro · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "little-london",
+    "city": "munich",
+    "name": "Little London",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Tal 31, 80331 München",
+    "neighborhood": "Altstadt",
+    "lat": 48.13568,
+    "lng": 11.580889,
+    "cuisine": "Meats and Grills",
+    "priceTier": "€€€€",
+    "chef": "Little London Kitchen Team",
+    "hours": "Mon–Sat 17:30–24:00 · Closed Sun",
+    "review": "A handsome, clubby British-accented grill and gin bar just steps from Marienplatz, specializing in top-tier prime steaks seared on a Montague broiler, refined raw starters, and classic cocktails.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/little-london",
+    "websiteUrl": "https://little-london.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/652a99e3c47b40a4af3191aa042dd60c.jpeg?w=1000&format=webp",
+        "caption": "Prime Grill & Bar · Michelin Guide"
+      },
+      {
+        "url": "https://little-london.de/images/hero-header-1920.jpg",
+        "caption": "Culinary Highlight · Little London"
+      }
+    ]
+  },
+  {
+    "id": "martinelli",
+    "city": "munich",
+    "name": "Martinelli",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Wilhelm-Dieß-Weg 2, 81927 München",
+    "neighborhood": "Bogenhausen",
+    "lat": 48.155406,
+    "lng": 11.637127,
+    "cuisine": "Italian",
+    "priceTier": "€€€",
+    "chef": "Elena & Luca Martinelli",
+    "hours": "Wed–Fri 12:00–14:00 & 18:00–22:30 · Tue & Sat 18:00–22:30 · Closed Sun–Mon",
+    "review": "A warmly welcoming family-run Bogenhausen ristorante praised by Michelin for authentic Italian craftsmanship beyond everyday clichés. Handcrafted pastas, pristine seasonal fish, and genuine hospitality draw loyal regulars.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/martinelli",
+    "websiteUrl": "https://www.ristorantemartinelli.de/en/home",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/d84d73f809e048cdb24a77d6331102ba.jpeg?w=1000&format=webp",
+        "caption": "Authentic Italian · Michelin Guide"
+      },
+      {
+        "url": "https://irp.cdn-website.com//ec77bdf7/dms3rep/multi/opt/Ristorante+Martinelli+%282%29-640w.jpg",
+        "caption": "Dining & Atmosphere · Bogenhausen"
+      },
+      {
+        "url": "https://irp.cdn-website.com//ec77bdf7/dms3rep/multi/opt/Ristorante+Martinelli+%2815%29-640w.jpg",
+        "caption": "Culinary Highlight · Martinelli"
+      }
+    ]
+  },
+  {
+    "id": "matsuhisa-munich",
+    "city": "munich",
+    "name": "Matsuhisa Munich",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Neuturmstraße 1, 80331 München",
+    "neighborhood": "Altstadt",
+    "lat": 48.137299,
+    "lng": 11.580733,
+    "cuisine": "Japanese Contemporary",
+    "priceTier": "€€€€",
+    "chef": "Nobu Matsuhisa Concept",
+    "hours": "Mon–Sun 18:00–23:00",
+    "review": "Set inside the Mandarin Oriental Munich, Nobu Matsuhisa's sleek dining room serves his celebrated Japanese-Peruvian repertoire—from black cod miso and yellowtail jalapeño to precision omakase at the live sushi counter.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/matsuhisa-munich",
+    "websiteUrl": "https://www.mandarinoriental.com/en/munich/altstadt/dine/matsuhisa-munich",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/4737659fd57b47d89ceca054767a2d7c.jpeg?w=1000&format=webp",
+        "caption": "Japanese-Peruvian Dining · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "nice-munich",
+    "city": "munich",
+    "name": "NICE",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "August-Everding-Straße 24, 81671 München",
+    "neighborhood": "Werksviertel",
+    "lat": 48.126126,
+    "lng": 11.611346,
+    "cuisine": "Modern Cuisine",
+    "priceTier": "€€€",
+    "chef": "NICE Kitchen Team",
+    "hours": "Wed–Sat 18:00–23:00 · Closed Sun–Tue",
+    "review": "A fresh, contemporary Werksviertel dining room bringing creative, produce-driven modern European menus to Munich's dynamic creative district. Clean plating, lively flavors, and friendly, unpretentious service define the experience.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/nice",
+    "websiteUrl": "https://nicedining.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/2536f5ecc9fe4b479b8389384f40fdf7.jpeg?w=1000&format=webp",
+        "caption": "Modern Werksviertel Dining · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "nymphenburger-hof",
+    "city": "munich",
+    "name": "Nymphenburger Hof",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Nymphenburger Straße 24, 80335 München",
+    "neighborhood": "Maxvorstadt",
+    "lat": 48.149059,
+    "lng": 11.552508,
+    "cuisine": "Classic Cuisine",
+    "priceTier": "€€€",
+    "chef": "Andreas Derler",
+    "hours": "Tue–Fri 12:00–14:00 & 18:00–24:00 · Sat 18:00–24:00 · Closed Sun–Mon",
+    "review": "A polished, long-established Maxvorstadt restaurant with a serene courtyard garden, uniting classical European finesse with seasonal regional ingredients. Impeccable service and an extensive wine list suit celebratory lunches and dinners.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/nymphenburger-hof",
+    "websiteUrl": "https://nymphenburgerhof.de/en/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/a0ad2d5d4cc54faca042ed585b7c63a7.jpeg?w=1000&format=webp",
+        "caption": "Classic Fine Dining · Michelin Guide"
+      },
+      {
+        "url": "https://nymphenburgerhof.de/images/andeas-derler.jpg",
+        "caption": "Dining & Atmosphere · Maxvorstadt"
+      },
+      {
+        "url": "https://nymphenburgerhof.de/images/nymphenburger_hof_isbl_dsc_7901.jpg",
+        "caption": "Culinary Highlight · Nymphenburger Hof"
+      }
+    ]
+  },
+  {
+    "id": "pageou",
+    "city": "munich",
+    "name": "Pageou",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Kardinal-Faulhaber-Straße 10, 80333 München",
+    "neighborhood": "Altstadt · Fünf Höfe",
+    "lat": 48.140742,
+    "lng": 11.574665,
+    "cuisine": "Mediterranean Cuisine",
+    "priceTier": "€€€",
+    "chef": "Ali Güngörmüş",
+    "hours": "Tue–Sat 18:00–24:00 · Closed Sun–Mon",
+    "review": "Tucked inside Munich's architectural Fünf Höfe arcade, chef Ali Güngörmüş brings warm Mediterranean and Oriental-inflected dishes to a glamorous, bustling dining room. Aromatic spices, crisp seafood, and vibrant mezze-inspired starters stand out.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/pageou",
+    "websiteUrl": "https://www.pageou.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/0d39906e31fa4768946b593d7241bc79.jpeg?w=1000&format=webp",
+        "caption": "Mediterranean Flavors · Michelin Guide"
+      },
+      {
+        "url": "https://pageou.de/media/pages/home/39af5b67f6-1782890338/2026-04-21-11-25-11-764899.jpeg",
+        "caption": "Dining & Atmosphere · Altstadt · Fünf Höfe"
+      },
+      {
+        "url": "https://pageou.de/media/pages/home/5be3dfca53-1782890338/dsc00001_resized.jpg",
+        "caption": "Culinary Highlight · Pageou"
+      }
+    ]
+  },
+  {
+    "id": "pure-wine-food",
+    "city": "munich",
+    "name": "Pure Wine & Food",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Neureutherstraße 15, 80799 München",
+    "neighborhood": "Maxvorstadt",
+    "lat": 48.154737,
+    "lng": 11.572325,
+    "cuisine": "Mediterranean Cuisine",
+    "priceTier": "€€€",
+    "chef": "Patrick & Claudia De Luca",
+    "hours": "Thu–Sat 18:00–23:00 · By Reservation",
+    "review": "An intimate wine-lover's haven blending expressive Mediterranean market cooking with handpicked European vintages. Thoughtful seasonal dishes and personal host-led pairings create an unhurried, deeply convivial evening.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/pure-wine-food",
+    "websiteUrl": "https://pure-wine-food-muenchen.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/e678db08556f4379b7dcf24300749e46.jpeg?w=1000&format=webp",
+        "caption": "Wine & Mediterranean Food · Michelin Guide"
+      },
+      {
+        "url": "https://pure-wine-food-muenchen.de/r37/gal/ta-gedeck-2000.webp",
+        "caption": "Dining & Atmosphere · Maxvorstadt"
+      },
+      {
+        "url": "https://pure-wine-food-muenchen.de/r37/ta-hero-m.webp",
+        "caption": "Culinary Highlight · Pure Wine & Food"
+      }
+    ]
+  },
+  {
+    "id": "randale-munich",
+    "city": "munich",
+    "name": "Randale",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Sternstraße 16, 80538 München",
+    "neighborhood": "Lehel",
+    "lat": 48.138909,
+    "lng": 11.590772,
+    "cuisine": "Modern French",
+    "priceTier": "€€€",
+    "chef": "Randale Kitchen Team",
+    "hours": "Tue–Sat 19:00–24:00 · Closed Sun–Mon",
+    "review": "A sleek, energetic newcomer in Lehel bringing bold, modern French bistro cooking and sharp sauces to an intimate dining room. Creative seasonal courses, vibrant natural and classic wines, and youthful poise earned immediate Michelin recognition.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/randale",
+    "websiteUrl": "https://www.randale-muc.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/c2db4bf52a8f4b91ac9a2ae663f77ca9.jpg?w=1000&format=webp",
+        "caption": "Modern French Bistro · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "raya-munich",
+    "city": "munich",
+    "name": "RAYA",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Karlsplatz 25, 80335 München",
+    "neighborhood": "Altstadt · Stachus",
+    "lat": 48.139568,
+    "lng": 11.564327,
+    "cuisine": "Asian",
+    "priceTier": "€€€",
+    "chef": "RAYA Kitchen Team",
+    "hours": "Tue–Sat 18:00–23:00 · Closed Sun–Mon",
+    "review": "Set inside the landmark Koenigshof at Stachus, RAYA showcases vibrant contemporary Asian cuisine crafted for sharing—combining fragrant Southeast Asian aromatics, delicate dim sum, and theatrical presentation in a stylish lounge-dining setting.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/raya-1250298",
+    "websiteUrl": "https://www.raya.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/025b0b01e25c482f8f5f97045f7b0e1e.jpg?w=1000&format=webp",
+        "caption": "Contemporary Asian · Michelin Guide"
+      },
+      {
+        "url": "https://cdn.sanity.io/images/pxqqzalo/production/bd83845c541756fbe9935b939b30453caab3331d-5152x7724.jpg?w=900",
+        "caption": "Culinary Highlight · RAYA"
+      }
+    ]
+  },
+  {
+    "id": "restaurant-huber",
+    "city": "munich",
+    "name": "Restaurant Huber",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Newtonstraße 13, 81679 München",
+    "neighborhood": "Bogenhausen",
+    "lat": 48.14966,
+    "lng": 11.609902,
+    "cuisine": "Contemporary",
+    "priceTier": "€€€",
+    "chef": "Stefan Huber",
+    "hours": "Wed–Sat 18:00–23:00 · Closed Sun–Tue",
+    "review": "In a peaceful Bogenhausen residential street, Restaurant Huber pairs bright contemporary aesthetics with confident, seasonal European cooking. Clean flavors, classic sauce depth, and polished hospitality make it a serene neighborhood highlight.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/huber",
+    "websiteUrl": "https://www.huber-restaurant.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/3dd14699236945da9f973c151756cca2.jpg?w=1000&format=webp",
+        "caption": "Contemporary European · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "sansaro",
+    "city": "munich",
+    "name": "sansaro",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Amalienstraße 89, 80799 München",
+    "neighborhood": "Maxvorstadt",
+    "lat": 48.151522,
+    "lng": 11.578074,
+    "cuisine": "Japanese",
+    "priceTier": "€€",
+    "chef": "sansaro Sushi Masters",
+    "hours": "Tue–Sat 12:00–14:30 & 17:30–22:30 · Closed Sun–Mon",
+    "review": "Hidden in the Amalienpassage courtyard, sansaro is Munich's benchmark address for authentic Japanese sushi, sashimi, and refined omakase flights. Pristine fish sourcing, seasoned rice, and an exceptional sake selection draw purists citywide.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/sansaro",
+    "websiteUrl": "https://www.sushiya.de/en/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/cdbf6eb4cf6a4d25a41bee1fddbc8ca2.jpg?w=1000&format=webp",
+        "caption": "Authentic Japanese Sushi · Michelin Guide"
+      },
+      {
+        "url": "https://www.sushiya.de/wp-content/uploads/sushi/sansaro-sushi/omakase-ibuki-_8507867-1536px.jpg",
+        "caption": "Omakase Sushi · Amalienpassage"
+      }
+    ]
+  },
+  {
+    "id": "schwarzreiter",
+    "city": "munich",
+    "name": "Schwarzreiter Restaurant",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Maximilianstraße 17, 80539 München",
+    "neighborhood": "Altstadt · Maximilianstraße",
+    "lat": 48.139168,
+    "lng": 11.581965,
+    "cuisine": "Modern Cuisine",
+    "priceTier": "€€€€",
+    "chef": "Schwarzreiter Kitchen Team",
+    "hours": "Tue–Sat 18:00–22:30 · Closed Sun–Mon",
+    "review": "Inside the grand Hotel Vier Jahreszeiten Kempinski on Maximilianstraße, Schwarzreiter offers light, modern 'Young Bavarian' fine dining named after King Ludwig II's favorite alpine char. Elegant plating meets historic grand-hotel polish.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/schwarzreiter",
+    "websiteUrl": "https://www.kempinski.com/en/hotel-vier-jahreszeiten/restaurants-bars/schwarzreiter-restaurant",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/f1f7ffcb9f184f19b4c71adf1acbe477.jpeg?w=1000&format=webp",
+        "caption": "Modern Bavarian Fine Dining · Michelin Guide"
+      },
+      {
+        "url": "https://storage.kempinski.com/cdn-cgi/image/w=1920,f=auto,fit=scale-down/ki-cms-prod/images/1/5/5/8/368551-1-eng-GB/2946b8b5beb0-74403108_4K.jpg",
+        "caption": "Dining & Atmosphere · Altstadt · Maximilianstraße"
+      },
+      {
+        "url": "https://storage.kempinski.com/cdn-cgi/image/w=585,h=775,f=auto,fit=cover,g=auto/ki-cms-prod/images/8/3/7/6/1386738-1-eng-GB/e6a3f0ab205b-75918099_4K.jpg",
+        "caption": "Culinary Highlight · Schwarzreiter Restaurant"
+      }
+    ]
+  },
+  {
+    "id": "showroom-munich",
+    "city": "munich",
+    "name": "Showroom",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Lilienstraße 6, 81669 München",
+    "neighborhood": "Au-Haidhausen",
+    "lat": 48.130534,
+    "lng": 11.587303,
+    "cuisine": "Creative",
+    "priceTier": "€€€€",
+    "chef": "Dominik Sato & Showroom Team",
+    "hours": "Wed–Sat 18:30–23:30 · Closed Sun–Tue",
+    "review": "Set in an intimate, gallery-like Au-Haidhausen space, Showroom delivers imaginative, visually arresting tasting menus with bold flavor contrasts and playful fine-dining spirit. Warm, direct service keeps the creative kitchen approachable.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/showroom",
+    "websiteUrl": "https://www.showroom-restaurant.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/bebe04d8a7bf4fc18b3bcff5f8f8f851.jpeg?w=1000&format=webp",
+        "caption": "Creative Tasting Menu · Michelin Guide"
+      },
+      {
+        "url": "https://www.showroom-restaurant.de/wp-content/uploads/2026/10/Elegantes-Restaurant-mit-Blumenmural-1024x576.png",
+        "caption": "Dining & Atmosphere · Au-Haidhausen"
+      },
+      {
+        "url": "https://www.showroom-restaurant.de/wp-content/uploads/2026/10/8a2c128e-f27d-409c-819e-ce5ac478d22a.png",
+        "caption": "Culinary Highlight · Showroom"
+      }
+    ]
+  },
+  {
+    "id": "trichards",
+    "city": "munich",
+    "name": "Trichards",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Reitmorstraße 21, 80538 München",
+    "neighborhood": "Lehel",
+    "lat": 48.140453,
+    "lng": 11.592558,
+    "cuisine": "Classic French",
+    "priceTier": "€€",
+    "chef": "Trichards Kitchen Team",
+    "hours": "Tue–Sat 17:00–24:00 · Closed Sun–Mon",
+    "review": "A cozy, atmospheric Lehel restaurant and wine bar near the Friedensengel pairing seasonal French-accented bistro cooking with a deep cellar of German and European wines. Warm candlelight and thoughtful, unpretentious dishes invite lingering.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/trichards",
+    "websiteUrl": "https://www.trichards.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/a4db4b1fd337489a92061de988d6b9f5.jpeg?w=1000&format=webp",
+        "caption": "French Bistro & Wine Bar · Michelin Guide"
+      },
+      {
+        "url": "https://www.trichards.de/files/slideshowImage-4595.jpg",
+        "caption": "Culinary Highlight · Trichards"
+      }
+    ]
+  },
+  {
+    "id": "vinaiolo",
+    "city": "munich",
+    "name": "Vinaiolo",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Steinstraße 42, 81667 München",
+    "neighborhood": "Haidhausen",
+    "lat": 48.131309,
+    "lng": 11.595918,
+    "cuisine": "Italian",
+    "priceTier": "€€€",
+    "chef": "Vinaiolo Kitchen Team",
+    "hours": "Mon–Fri 12:00–15:00 & 18:00–23:00 · Sat 18:00–23:00 · Closed Sun",
+    "review": "A warmly rustic Haidhausen favorite dedicated to lesser-known regional Italian specialties and artisanal wines from small estates across Italy. Honest, deeply flavorful pastas and seasonal dishes shine in a convivial, brick-warmed room.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/vinaiolo",
+    "websiteUrl": "https://www.vinaiolo.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/6a90a61ee60a4051ab0da7f63eea6fc5.jpeg?w=1000&format=webp",
+        "caption": "Regional Italian · Michelin Guide"
+      }
+    ]
+  },
+  {
+    "id": "vinothek-by-geisel",
+    "city": "munich",
+    "name": "VINOTHEK by Geisel",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Schützenstraße 11, 80335 München",
+    "neighborhood": "Ludwigsvorstadt · Stachus",
+    "lat": 48.139747,
+    "lng": 11.562167,
+    "cuisine": "International",
+    "priceTier": "€€€",
+    "chef": "Geisel Kitchen Team",
+    "hours": "Mon–Fri 12:00–24:00 · Closed Sat–Sun",
+    "review": "Inside Hotel Excelsior near Stachus, this storied wine tavern pairs over 700 bottles from an extraordinary cellar with refined Mediterranean-international comfort dishes, handmade pasta, and classic tartare in a wood-warmed room.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/vinothek-by-geisel",
+    "websiteUrl": "https://www.excelsior-hotel.de/en/vinothek",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/ebc0a8c3e816433c8c691493b3ac858b.jpeg?w=1000&format=webp",
+        "caption": "Wine Tavern & Dining · Michelin Guide"
+      },
+      {
+        "url": "https://www.excelsior-hotel.de/img/gen/containers/assets/vino|bilder|bilder-galerie|bad-boy-wein.jpg/bad-boy-wein.dpr-2-w-1120-h-960-v-1768835414.342f4732a6.jpg",
+        "caption": "Dining & Atmosphere · Ludwigsvorstadt · Stachus"
+      }
+    ]
+  },
+  {
+    "id": "weinhaus-neuner",
+    "city": "munich",
+    "name": "Weinhaus Neuner",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Herzogspitalstraße 8, 80331 München",
+    "neighborhood": "Altstadt",
+    "lat": 48.137868,
+    "lng": 11.568313,
+    "cuisine": "Traditional Cuisine · Farm to table",
+    "priceTier": "€€€",
+    "chef": "Weinhaus Neuner Team",
+    "hours": "Tue–Sat 17:30–23:30 · Closed Sun–Mon",
+    "review": "Munich's oldest wine house blends historic wood-paneled charm with polished, seasonal German-Austrian cooking. Classic braised dishes, fresh market specials, and an impressive cellar of German and Austrian vintages anchor a timeless Old Town evening.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/weinhaus-neuner",
+    "websiteUrl": "https://weinhaus-neuner.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/c22586e132a243cc84279cb96994b4ee.jpeg?w=1000&format=webp",
+        "caption": "Historic Wine House · Michelin Guide"
+      },
+      {
+        "url": "https://weinhaus-neuner.de/wp-content/uploads/tuere_1-scaled.jpg",
+        "caption": "Dining & Atmosphere · Altstadt"
+      }
+    ]
+  },
+  {
+    "id": "zauberberg",
+    "city": "munich",
+    "name": "Zauberberg",
+    "stars": 0,
+    "distinction": "selected",
+    "greenStar": false,
+    "address": "Hedwigstraße 14, 80636 München",
+    "neighborhood": "Neuhausen",
+    "lat": 48.153235,
+    "lng": 11.540882,
+    "cuisine": "Creative",
+    "priceTier": "€€€",
+    "chef": "Zauberberg Kitchen Team",
+    "hours": "Tue–Sat 18:00–24:00 · Closed Sun–Mon",
+    "review": "A charming, quietly ambitious Neuhausen neighborhood gem known for its imaginative multi-course seasonal tasting menus. Delicate flavor combinations, careful sourcing, and warm, unhurried service deliver fine-dining quality in an intimate setting.",
+    "michelinUrl": "https://guide.michelin.com/us/en/bayern/mnchen/restaurant/zauberberg",
+    "websiteUrl": "https://www.restaurant-zauberberg.de/",
+    "images": [
+      {
+        "url": "https://prod-pics.guide.michelin.com/api/public/content/dc462bcf5a794b24bb5d0b413ebb7c87.jpeg?w=1000&format=webp",
+        "caption": "Creative Seasonal Menu · Michelin Guide"
+      },
+      {
+        "url": "https://www.restaurant-zauberberg.de/img/ZB-5Gaenge-Back-1_1950.jpg",
+        "caption": "Dining & Atmosphere · Neuhausen"
+      },
+      {
+        "url": "https://www.restaurant-zauberberg.de/img/ZB-5Gaenge-Front-1_9831.jpg",
+        "caption": "Culinary Highlight · Zauberberg"
       }
     ]
   }
